@@ -1,0 +1,11 @@
+Model Information:
+* title:	DOWN Obstacle
+* source:	https://sketchfab.com/3d-models/down-obstacle-06a03ee64ed241888ddd88dce3d1d882
+* author:	JeremyV (https://sketchfab.com/JeremyV)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "DOWN Obstacle" (https://sketchfab.com/3d-models/down-obstacle-06a03ee64ed241888ddd88dce3d1d882) by JeremyV (https://sketchfab.com/JeremyV) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,3856 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: tl_landing
+  serializedVersion: 7
+  m_Legacy: 0
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.09624606, y: 0.07712528, z: -0.76462173, w: -0.63256776}
+        inSlope: {x: -0.083932124, y: -0.10673269, z: 0.70408696, w: -0.8353471}
+        outSlope: {x: -0.083932124, y: -0.10673269, z: 0.70408696, w: -0.8353471}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0, w: 0}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.016666668
+        value: {x: -0.09764493, y: 0.0753464, z: -0.75288695, w: -0.6464902}
+        inSlope: {x: -0.1266036, y: -0.24190193, z: 1.4556706, w: -1.6410362}
+        outSlope: {x: -0.1266036, y: -0.24190193, z: 1.4556706, w: -1.6410362}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.033333335
+        value: {x: -0.100466184, y: 0.06906188, z: -0.7160994, w: -0.687269}
+        inSlope: {x: -0.22151369, y: -0.37575412, z: 2.4774697, w: -2.4825835}
+        outSlope: {x: -0.22151369, y: -0.37575412, z: 2.4774697, w: -2.4825835}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.06666667
+        value: {x: -0.10959126, y: 0.056580648, z: -0.6245099, w: -0.77121705}
+        inSlope: {x: -0.23667845, y: -0.3963431, z: 2.8588066, w: -2.386584}
+        outSlope: {x: -0.23667845, y: -0.3963431, z: 2.8588066, w: -2.386584}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.083333336
+        value: {x: -0.112918004, y: 0.04960983, z: -0.5750111, w: -0.8087958}
+        inSlope: {x: -0.19960465, y: -0.41824916, z: 2.969928, w: -2.254726}
+        outSlope: {x: -0.19960465, y: -0.41824916, z: 2.969928, w: -2.254726}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0, y: 0, z: 0, w: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/chr_tails.fbx/Object_2/RootNode/Object_4/_rootJoint/CharacterModelTails_01/chr_tails_02/Reference_04/Hips_05/Spine_06/Spine1_07/Head_08/Hair_09
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.07801792, y: -0.017392933, z: 0.21685095, w: -0.9729267}
+        inSlope: {x: 0.015343129, y: 0.00794515, z: -0.43449056, w: -0.094821446}
+        outSlope: {x: 0.015343129, y: 0.00794515, z: -0.43449056, w: -0.094821446}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0, w: 0}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.033333335
+        value: {x: -0.07750648, y: -0.017128095, z: 0.20236793, w: -0.9760874}
+        inSlope: {x: 0.014878735, y: 0.008149892, z: -0.43535313, w: -0.09073913}
+        outSlope: {x: 0.014878735, y: 0.008149892, z: -0.43535313, w: -0.09073913}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.083333336
+        value: {x: -0.076785766, y: -0.016710363, z: 0.18055715, w: -0.98042023}
+        inSlope: {x: 0.01441434, y: 0.008354634, z: -0.4362157, w: -0.08665681}
+        outSlope: {x: 0.01441434, y: 0.008354634, z: -0.4362157, w: -0.08665681}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0, y: 0, z: 0, w: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/chr_tails.fbx/Object_2/RootNode/Object_4/_rootJoint/CharacterModelTails_01/chr_tails_02/Reference_04/Hips_05/Spine_06/Spine1_07/Head_08
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.0007545794, y: 0.0004397396, z: -0.64460945, w: -0.7645115}
+        inSlope: {x: -0.006648073, y: -0.004316407, z: 0.96421295, w: -0.7794731}
+        outSlope: {x: -0.006648073, y: -0.004316407, z: 0.96421295, w: -0.7794731}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0, w: 0}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.033333335
+        value: {x: -0.0009761818, y: 0.00029585938, z: -0.612469, w: -0.79049397}
+        inSlope: {x: -0.010865399, y: -0.0064062206, z: 1.7173834, w: -1.2511727}
+        outSlope: {x: -0.010865399, y: -0.0064062206, z: 1.7173834, w: -1.2511727}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.06666667
+        value: {x: -0.0014789393, y: 0.000012658241, z: -0.5301172, w: -0.84792304}
+        inSlope: {x: -0.015930261, y: -0.008024162, z: 2.8106894, w: -1.7809564}
+        outSlope: {x: -0.015930261, y: -0.008024162, z: 2.8106894, w: -1.7809564}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.083333336
+        value: {x: -0.0017585693, y: -0.000113213246, z: -0.47760347, w: -0.8785737}
+        inSlope: {x: -0.016777799, y: -0.00755229, z: 3.150825, w: -1.8390406}
+        outSlope: {x: -0.016777799, y: -0.00755229, z: 3.150825, w: -1.8390406}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0, y: 0, z: 0, w: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/chr_tails.fbx/Object_2/RootNode/Object_4/_rootJoint/CharacterModelTails_01/chr_tails_02/Reference_04/Hips_05/Spine_06/Spine1_07/Shoulder_L_010/UpperArm_L_011/ForeArm_L_012/Elbow_L_013
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -4.273477e-17, y: 4.8224413e-16, z: 0.8446673, w: -0.5352917}
+        inSlope: {x: 1.5977845e-14, y: -9.701415e-15, z: 0.10022163, w: 0.1592481}
+        outSlope: {x: 1.5977845e-14, y: -9.701415e-15, z: 0.10022163, w: 0.1592481}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0, w: 0}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.033333335
+        value: {x: 4.8986006e-16, y: 1.5886362e-16, z: 0.84800804, w: -0.5299834}
+        inSlope: {x: 3.3147237e-15, y: -7.603634e-15, z: 0.099595785, w: 0.15963852}
+        outSlope: {x: 3.3147237e-15, y: -7.603634e-15, z: 0.099595785, w: 0.15963852}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.083333336
+        value: {x: 2.2440187e-17, y: -1.1642906e-16, z: 0.85295653, w: -0.52198195}
+        inSlope: {x: -9.348398e-15, y: -5.505854e-15, z: 0.09896994, w: 0.16002893}
+        outSlope: {x: -9.348398e-15, y: -5.505854e-15, z: 0.09896994, w: 0.16002893}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0, y: 0, z: 0, w: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/chr_tails.fbx/Object_2/RootNode/Object_4/_rootJoint/CharacterModelTails_01/chr_tails_02/Reference_04/Hips_05/Spine_06/Spine1_07/Shoulder_L_010/UpperArm_L_011/ForeArm_L_012/ForeArmSub_L_014/Hand_L_015/Index1_L_016/Index2_L_017
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.5933259, y: 0.38427413, z: 0.6034041, w: -0.3690546}
+        inSlope: {x: 0.07568299, y: 0.054167207, z: -0.71990484, w: -0.9356349}
+        outSlope: {x: 0.07568299, y: 0.054167207, z: -0.71990484, w: -0.9356349}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0, w: 0}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.033333335
+        value: {x: 0.5958487, y: 0.3860797, z: 0.5794073, w: -0.40024242}
+        inSlope: {x: 0.15406428, y: 0.16807884, z: -0.8535727, w: -0.83883667}
+        outSlope: {x: 0.15406428, y: 0.16807884, z: -0.8535727, w: -0.83883667}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.06666667
+        value: {x: 0.60359687, y: 0.39547938, z: 0.54649925, w: -0.42497703}
+        inSlope: {x: 0.17222017, y: 0.22518083, z: -1.2273637, w: -1.113562}
+        outSlope: {x: 0.17222017, y: 0.22518083, z: -1.2273637, w: -1.113562}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.083333336
+        value: {x: 0.60546345, y: 0.39828557, z: 0.52204114, w: -0.44972846}
+        inSlope: {x: 0.11199475, y: 0.16837122, z: -1.4674867, w: -1.4850856}
+        outSlope: {x: 0.11199475, y: 0.16837122, z: -1.4674867, w: -1.4850856}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0, y: 0, z: 0, w: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/chr_tails.fbx/Object_2/RootNode/Object_4/_rootJoint/CharacterModelTails_01/chr_tails_02/Reference_04/Hips_05/Spine_06/Spine1_07/Shoulder_L_010/UpperArm_L_011/ForeArm_L_012/ForeArmSub_L_014/Hand_L_015/Index1_L_016
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -1.2125177e-16, y: -3.1643573e-16, z: -0.89474946, w: 0.44656846}
+        inSlope: {x: -1.7564868e-15, y: -1.3791622e-15, z: 0.19174396, w: 0.3774887}
+        outSlope: {x: -1.7564868e-15, y: -1.3791622e-15, z: 0.19174396, w: 0.3774887}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0, w: 0}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.033333335
+        value: {x: -1.7980134e-16, y: -3.624078e-16, z: -0.888358, w: 0.45915142}
+        inSlope: {x: 1.2798852e-15, y: 3.071149e-15, z: 0.1950571, w: 0.37576616}
+        outSlope: {x: 1.2798852e-15, y: 3.071149e-15, z: 0.1950571, w: 0.37576616}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.083333336
+        value: {x: 3.6011523e-17, y: 1.36652165e-17, z: -0.8784395, w: 0.4778536}
+        inSlope: {x: 4.316257e-15, y: 7.52146e-15, z: 0.19837022, w: 0.37404358}
+        outSlope: {x: 4.316257e-15, y: 7.52146e-15, z: 0.19837022, w: 0.37404358}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0, y: 0, z: 0, w: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/chr_tails.fbx/Object_2/RootNode/Object_4/_rootJoint/CharacterModelTails_01/chr_tails_02/Reference_04/Hips_05/Spine_06/Spine1_07/Shoulder_L_010/UpperArm_L_011/ForeArm_L_012/ForeArmSub_L_014/Hand_L_015/Middle1_L_018/Middle2_L_019
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.529706, y: 0.44629386, z: 0.54141575, w: -0.47655255}
+        inSlope: {x: 0.098138444, y: -0.12645185, z: -0.4328781, w: -0.48544493}
+        outSlope: {x: 0.098138444, y: -0.12645185, z: -0.4328781, w: -0.48544493}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0, w: 0}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.033333335
+        value: {x: 0.5329773, y: 0.4420788, z: 0.5269865, w: -0.49273404}
+        inSlope: {x: 0.22815078, y: 0.016297996, z: -0.5687618, w: -0.33708405}
+        outSlope: {x: 0.22815078, y: 0.016297996, z: -0.5687618, w: -0.33708405}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.083333336
+        value: {x: 0.55088544, y: 0.4500312, z: 0.4917542, w: -0.5021702}
+        inSlope: {x: 0.35816312, y: 0.15904784, z: -0.7046455, w: -0.1887232}
+        outSlope: {x: 0.35816312, y: 0.15904784, z: -0.7046455, w: -0.1887232}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0, y: 0, z: 0, w: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/chr_tails.fbx/Object_2/RootNode/Object_4/_rootJoint/CharacterModelTails_01/chr_tails_02/Reference_04/Hips_05/Spine_06/Spine1_07/Shoulder_L_010/UpperArm_L_011/ForeArm_L_012/ForeArmSub_L_014/Hand_L_015/Middle1_L_018
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 5.028457e-16, y: 4.4237458e-16, z: 0.8152028, w: -0.5791757}
+        inSlope: {x: -1.645812e-14, y: -9.795642e-15, z: 0.28919932, w: 0.41440484}
+        outSlope: {x: -1.645812e-14, y: -9.795642e-15, z: 0.28919932, w: 0.41440484}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0, w: 0}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.033333335
+        value: {x: -4.575831e-17, y: 1.1585314e-16, z: 0.82484275, w: -0.5653622}
+        inSlope: {x: -6.487803e-15, y: -4.975217e-15, z: 0.2848035, w: 0.4174006}
+        outSlope: {x: -6.487803e-15, y: -4.975217e-15, z: 0.2848035, w: 0.4174006}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.083333336
+        value: {x: 1.2836737e-16, y: 1.08113565e-16, z: 0.83886313, w: -0.5443424}
+        inSlope: {x: 3.4825135e-15, y: -1.5479157e-16, z: 0.28040767, w: 0.42039633}
+        outSlope: {x: 3.4825135e-15, y: -1.5479157e-16, z: 0.28040767, w: 0.42039633}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0, y: 0, z: 0, w: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/chr_tails.fbx/Object_2/RootNode/Object_4/_rootJoint/CharacterModelTails_01/chr_tails_02/Reference_04/Hips_05/Spine_06/Spine1_07/Shoulder_L_010/UpperArm_L_011/ForeArm_L_012/ForeArmSub_L_014/Hand_L_015/Pinky1_L_020/Pinky2_L_021
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.42973226, y: 0.5500894, z: 0.3571795, w: -0.62060827}
+        inSlope: {x: 0.5383837, y: -0.36857662, z: 0.11128574, w: 0.122315876}
+        outSlope: {x: 0.5383837, y: -0.36857662, z: 0.11128574, w: 0.122315876}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0, w: 0}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.033333335
+        value: {x: 0.4476784, y: 0.53780353, z: 0.36088902, w: -0.6165311}
+        inSlope: {x: 0.53997993, y: -0.36500126, z: 0.101297945, w: 0.13609052}
+        outSlope: {x: 0.53997993, y: -0.36500126, z: 0.101297945, w: 0.13609052}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.083333336
+        value: {x: 0.4747572, y: 0.51973224, z: 0.36545452, w: -0.6090378}
+        inSlope: {x: 0.54157615, y: -0.36142588, z: 0.09131014, w: 0.14986515}
+        outSlope: {x: 0.54157615, y: -0.36142588, z: 0.09131014, w: 0.14986515}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0, y: 0, z: 0, w: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/chr_tails.fbx/Object_2/RootNode/Object_4/_rootJoint/CharacterModelTails_01/chr_tails_02/Reference_04/Hips_05/Spine_06/Spine1_07/Shoulder_L_010/UpperArm_L_011/ForeArm_L_012/ForeArmSub_L_014/Hand_L_015/Pinky1_L_020
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -3.942404e-16, y: -3.8490157e-16, z: -0.8872057, w: 0.4613741}
+        inSlope: {x: 1.5626203e-14, y: 3.546297e-15, z: 0.15089391, w: 0.28637496}
+        outSlope: {x: 1.5626203e-14, y: 3.546297e-15, z: 0.15089391, w: 0.28637496}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0, w: 0}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.033333335
+        value: {x: 1.2663305e-16, y: -2.6669166e-16, z: -0.8821759, w: 0.47091994}
+        inSlope: {x: 3.9933716e-15, y: 6.0388443e-15, z: 0.15281618, w: 0.28534305}
+        outSlope: {x: 3.9933716e-15, y: 6.0388443e-15, z: 0.15281618, w: 0.28534305}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.083333336
+        value: {x: -2.5533996e-16, y: 1.5987792e-16, z: -0.874439, w: 0.4851355}
+        inSlope: {x: -7.63946e-15, y: 8.531391e-15, z: 0.15473843, w: 0.28431118}
+        outSlope: {x: -7.63946e-15, y: 8.531391e-15, z: 0.15473843, w: 0.28431118}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0, y: 0, z: 0, w: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/chr_tails.fbx/Object_2/RootNode/Object_4/_rootJoint/CharacterModelTails_01/chr_tails_02/Reference_04/Hips_05/Spine_06/Spine1_07/Shoulder_L_010/UpperArm_L_011/ForeArm_L_012/ForeArmSub_L_014/Hand_L_015/Ring1_L_022/Ring2_L_023
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.45948747, y: 0.51088303, z: 0.49147165, w: -0.53509384}
+        inSlope: {x: 0.5718049, y: 0.33299085, z: -0.47532496, w: 0.39796826}
+        outSlope: {x: 0.5718049, y: 0.33299085, z: -0.47532496, w: 0.39796826}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0, w: 0}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.033333335
+        value: {x: 0.47854763, y: 0.5219827, z: 0.47562748, w: -0.52182823}
+        inSlope: {x: 0.512263, y: -0.11077435, z: -0.43251812, w: -0.027554646}
+        outSlope: {x: 0.512263, y: -0.11077435, z: -0.43251812, w: -0.027554646}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.083333336
+        value: {x: 0.5011837, y: 0.49425575, z: 0.45614192, w: -0.5444821}
+        inSlope: {x: 0.45272112, y: -0.55453956, z: -0.38971126, w: -0.45307755}
+        outSlope: {x: 0.45272112, y: -0.55453956, z: -0.38971126, w: -0.45307755}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0, y: 0, z: 0, w: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/chr_tails.fbx/Object_2/RootNode/Object_4/_rootJoint/CharacterModelTails_01/chr_tails_02/Reference_04/Hips_05/Spine_06/Spine1_07/Shoulder_L_010/UpperArm_L_011/ForeArm_L_012/ForeArmSub_L_014/Hand_L_015/Ring1_L_022
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.0057803146, y: 0.003914838, z: 0.7832082, w: -0.6217204}
+        inSlope: {x: -0.032353, y: -0.02702206, z: 0.46370026, w: 0.5991071}
+        outSlope: {x: -0.032353, y: -0.02702206, z: 0.46370026, w: 0.5991071}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0, w: 0}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.033333335
+        value: {x: 0.004701881, y: 0.0030141028, z: 0.79866487, w: -0.60175014}
+        inSlope: {x: -0.033116054, y: -0.025940388, z: 0.4540974, w: 0.6062927}
+        outSlope: {x: -0.033116054, y: -0.025940388, z: 0.4540974, w: 0.6062927}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.083333336
+        value: {x: 0.0030079258, y: 0.001771167, z: 0.8208896, w: -0.5710762}
+        inSlope: {x: -0.03387911, y: -0.024858715, z: 0.4444945, w: 0.6134784}
+        outSlope: {x: -0.03387911, y: -0.024858715, z: 0.4444945, w: 0.6134784}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0, y: 0, z: 0, w: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/chr_tails.fbx/Object_2/RootNode/Object_4/_rootJoint/CharacterModelTails_01/chr_tails_02/Reference_04/Hips_05/Spine_06/Spine1_07/Shoulder_L_010/UpperArm_L_011/ForeArm_L_012/ForeArmSub_L_014/Hand_L_015/Thumb1_L_024/Thumb2_L_025
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.85037464, y: -0.2089065, z: 0.46188444, w: -0.1410098}
+        inSlope: {x: -0.15400527, y: -0.24863048, z: 0.10291993, w: -0.20686983}
+        outSlope: {x: -0.15400527, y: -0.24863048, z: 0.10291993, w: -0.20686983}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0, w: 0}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.033333335
+        value: {x: 0.8452411, y: -0.21719418, z: 0.4653151, w: -0.14790545}
+        inSlope: {x: -0.15958905, y: -0.24672872, z: 0.10823846, w: -0.2050525}
+        outSlope: {x: -0.15958905, y: -0.24672872, z: 0.10823846, w: -0.2050525}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.083333336
+        value: {x: 0.8369825, y: -0.22943553, z: 0.47099295, w: -0.15806721}
+        inSlope: {x: -0.16517282, y: -0.24482697, z: 0.11355698, w: -0.20323515}
+        outSlope: {x: -0.16517282, y: -0.24482697, z: 0.11355698, w: -0.20323515}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0, y: 0, z: 0, w: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/chr_tails.fbx/Object_2/RootNode/Object_4/_rootJoint/CharacterModelTails_01/chr_tails_02/Reference_04/Hips_05/Spine_06/Spine1_07/Shoulder_L_010/UpperArm_L_011/ForeArm_L_012/ForeArmSub_L_014/Hand_L_015/Thumb1_L_024
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.23908874, y: 0.048792847, z: -0.3186535, w: -0.9159235}
+        inSlope: {x: -0.39583322, y: -0.07208816, z: 1.0688335, w: -0.46518084}
+        outSlope: {x: -0.39583322, y: -0.07208816, z: 1.0688335, w: -0.46518084}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0, w: 0}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.016666668
+        value: {x: 0.23249152, y: 0.047591377, z: -0.3008396, w: -0.9236765}
+        inSlope: {x: -0.39039862, y: -0.06398912, z: 1.0635164, w: -0.44823286}
+        outSlope: {x: -0.39039862, y: -0.06398912, z: 1.0635164, w: -0.44823286}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.033333335
+        value: {x: 0.22607546, y: 0.046659876, z: -0.28320295, w: -0.9308646}
+        inSlope: {x: -0.39410546, y: -0.04779529, z: 1.0803447, w: -0.4263425}
+        outSlope: {x: -0.39410546, y: -0.04779529, z: 1.0803447, w: -0.4263425}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.05
+        value: {x: 0.21935467, y: 0.0459982, z: -0.26482812, w: -0.9378879}
+        inSlope: {x: -0.42670143, y: -0.029535592, z: 1.1527495, w: -0.425511}
+        outSlope: {x: -0.42670143, y: -0.029535592, z: 1.1527495, w: -0.425511}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.06666667
+        value: {x: 0.21185207, y: 0.045675356, z: -0.24477796, w: -0.9450483}
+        inSlope: {x: -0.6209023, y: 0.012489822, z: 1.5414016, w: -0.5258578}
+        outSlope: {x: -0.6209023, y: 0.012489822, z: 1.5414016, w: -0.5258578}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.083333336
+        value: {x: 0.19865793, y: 0.046414528, z: -0.21344806, w: -0.9554165}
+        inSlope: {x: -0.7916487, y: 0.04435033, z: 1.8797941, w: -0.62209374}
+        outSlope: {x: -0.7916487, y: 0.04435033, z: 1.8797941, w: -0.62209374}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0, y: 0, z: 0, w: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/chr_tails.fbx/Object_2/RootNode/Object_4/_rootJoint/CharacterModelTails_01/chr_tails_02/Reference_04/Hips_05/Spine_06/Spine1_07/Shoulder_L_010/UpperArm_L_011/ForeArm_L_012/ForeArmSub_L_014/Hand_L_015/Wrist_L_026
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.26250014, y: -0.05355133, z: 0.30807787, w: -0.91286033}
+        inSlope: {x: -0.21528839, y: -0.34830582, z: -0.5870926, w: -0.10623514}
+        outSlope: {x: -0.21528839, y: -0.34830582, z: -0.5870926, w: -0.10623514}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0, w: 0}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.033333335
+        value: {x: -0.26967642, y: -0.065161526, z: 0.28850812, w: -0.9164015}
+        inSlope: {x: -0.2066198, y: -0.3544895, z: -0.58549964, w: -0.096022785}
+        outSlope: {x: -0.2066198, y: -0.3544895, z: -0.58549964, w: -0.096022785}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.083333336
+        value: {x: -0.27957398, y: -0.08319519, z: 0.25931278, w: -0.920692}
+        inSlope: {x: -0.1979512, y: -0.36067322, z: -0.58390677, w: -0.08581042}
+        outSlope: {x: -0.1979512, y: -0.36067322, z: -0.58390677, w: -0.08581042}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0, y: 0, z: 0, w: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/chr_tails.fbx/Object_2/RootNode/Object_4/_rootJoint/CharacterModelTails_01/chr_tails_02/Reference_04/Hips_05/Spine_06/Spine1_07/Shoulder_L_010/UpperArm_L_011/ForeArm_L_012/ForeArmSub_L_014/Hand_L_015
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.00000087266613, y: -0.00000086544844, z: -0.0000017489187, w: -1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0, w: 0}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.033333335
+        value: {x: -0.00000087266613, y: -0.00000086544844, z: -0.0000017489187, w: -1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.083333336
+        value: {x: -0.00000087266613, y: -0.00000086544844, z: -0.0000017489187, w: -1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0, y: 0, z: 0, w: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/chr_tails.fbx/Object_2/RootNode/Object_4/_rootJoint/CharacterModelTails_01/chr_tails_02/Reference_04/Hips_05/Spine_06/Spine1_07/Shoulder_L_010/UpperArm_L_011/ForeArm_L_012/ForeArmSub_L_014
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.0013418494, y: -0.0006885544, z: 0.6001403, w: -0.7998934}
+        inSlope: {x: -0.001199803, y: 0.000593767, z: -0.25343657, w: -0.1880747}
+        outSlope: {x: -0.001199803, y: 0.000593767, z: -0.25343657, w: -0.1880747}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0, w: 0}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.033333335
+        value: {x: 0.001301856, y: -0.0006687622, z: 0.5916924, w: -0.80616254}
+        inSlope: {x: -0.0012046825, y: 0.00057654106, z: -0.25466263, w: -0.18640012}
+        outSlope: {x: -0.0012046825, y: 0.00057654106, z: -0.25466263, w: -0.18640012}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.083333336
+        value: {x: 0.0012413779, y: -0.00064079644, z: 0.57889795, w: -0.8153988}
+        inSlope: {x: -0.0012095622, y: 0.0005593151, z: -0.2558887, w: -0.18472552}
+        outSlope: {x: -0.0012095622, y: 0.0005593151, z: -0.2558887, w: -0.18472552}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0, y: 0, z: 0, w: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/chr_tails.fbx/Object_2/RootNode/Object_4/_rootJoint/CharacterModelTails_01/chr_tails_02/Reference_04/Hips_05/Spine_06/Spine1_07/Shoulder_L_010/UpperArm_L_011/ForeArm_L_012
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.17540488, y: 0.19738275, z: -0.07333259, w: -0.96171486}
+        inSlope: {x: 0.9765659, y: 0.1565498, z: 0.62498057, w: -0.16942082}
+        outSlope: {x: 0.9765659, y: 0.1565498, z: 0.62498057, w: -0.16942082}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0, w: 0}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.033333335
+        value: {x: -0.14285268, y: 0.20260108, z: -0.052499905, w: -0.9673622}
+        inSlope: {x: 1.6483405, y: 0.2062346, z: 1.1703894, w: -0.1669845}
+        outSlope: {x: 1.6483405, y: 0.2062346, z: 1.1703894, w: -0.1669845}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.083333336
+        value: {x: -0.026846921, y: 0.21539705, z: 0.033290014, w: -0.97558963}
+        inSlope: {x: 2.320115, y: 0.2559194, z: 1.7157984, w: -0.16454816}
+        outSlope: {x: 2.320115, y: 0.2559194, z: 1.7157984, w: -0.16454816}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0, y: 0, z: 0, w: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/chr_tails.fbx/Object_2/RootNode/Object_4/_rootJoint/CharacterModelTails_01/chr_tails_02/Reference_04/Hips_05/Spine_06/Spine1_07/Shoulder_L_010/UpperArm_L_011
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.70710677, y: 0.000002448081, z: -0.70710677, w: -0.000002448081}
+        inSlope: {x: -0.00976324, y: -0.6436382, z: 0.00976324, w: 0.6436382}
+        outSlope: {x: -0.00976324, y: -0.6436382, z: 0.00976324, w: 0.6436382}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0, w: 0}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.033333335
+        value: {x: 0.7067813, y: -0.02145216, z: -0.7067813, w: 0.02145216}
+        inSlope: {x: -0.021964312, y: -0.6432057, z: 0.021964312, w: 0.6432057}
+        outSlope: {x: -0.021964312, y: -0.6432057, z: 0.021964312, w: 0.6432057}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.083333336
+        value: {x: 0.70507306, y: -0.05359082, z: -0.70507306, w: 0.05359082}
+        inSlope: {x: -0.034165382, y: -0.6427732, z: 0.034165382, w: 0.6427732}
+        outSlope: {x: -0.034165382, y: -0.6427732, z: 0.034165382, w: 0.6427732}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0, y: 0, z: 0, w: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/chr_tails.fbx/Object_2/RootNode/Object_4/_rootJoint/CharacterModelTails_01/chr_tails_02/Reference_04/Hips_05/Spine_06/Spine1_07/Shoulder_L_010
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.0012604198, y: 0.0014491783, z: -0.511674, w: -0.85917753}
+        inSlope: {x: -0.0050221984, y: -0.015887193, z: 0.8525025, w: -0.4889917}
+        outSlope: {x: -0.0050221984, y: -0.015887193, z: 0.8525025, w: -0.4889917}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0, w: 0}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.033333335
+        value: {x: 0.0010930132, y: 0.0009196052, z: -0.48325723, w: -0.87547725}
+        inSlope: {x: -0.0056460146, y: -0.01614713, z: 0.9107485, w: -0.50051093}
+        outSlope: {x: -0.0056460146, y: -0.01614713, z: 0.9107485, w: -0.50051093}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.06666667
+        value: {x: 0.00088401884, y: 0.00037270304, z: -0.45095742, w: -0.8925449}
+        inSlope: {x: -0.008209984, y: -0.020423636, z: 1.4620963, w: -0.72794795}
+        outSlope: {x: -0.008209984, y: -0.020423636, z: 1.4620963, w: -0.72794795}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.083333336
+        value: {x: 0.0007148499, y: -0.000034633704, z: -0.41837078, w: -0.908276}
+        inSlope: {x: -0.010150136, y: -0.024440207, z: 1.9551982, w: -0.94386584}
+        outSlope: {x: -0.010150136, y: -0.024440207, z: 1.9551982, w: -0.94386584}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0, y: 0, z: 0, w: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/chr_tails.fbx/Object_2/RootNode/Object_4/_rootJoint/CharacterModelTails_01/chr_tails_02/Reference_04/Hips_05/Spine_06/Spine1_07/Shoulder_R_027/UpperArm_R_028/ForeArm_R_029/Elbow_R_030
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1.1439413e-17, y: -1.4767919e-16, z: 0.8446673, w: -0.5352917}
+        inSlope: {x: -5.192425e-16, y: 6.2832023e-15, z: 0.10022163, w: 0.1592481}
+        outSlope: {x: -5.192425e-16, y: 6.2832023e-15, z: 0.10022163, w: 0.1592481}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0, w: 0}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.033333335
+        value: {x: -5.868673e-18, y: 6.176091e-17, z: 0.84800804, w: -0.5299834}
+        inSlope: {x: -1.1917936e-15, y: 4.408995e-15, z: 0.099595785, w: 0.15963852}
+        outSlope: {x: -1.1917936e-15, y: 4.408995e-15, z: 0.099595785, w: 0.15963852}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.083333336
+        value: {x: -9.908591e-17, y: 1.8850031e-16, z: 0.85295653, w: -0.52198195}
+        inSlope: {x: -1.8643447e-15, y: 2.5347878e-15, z: 0.09896994, w: 0.16002893}
+        outSlope: {x: -1.8643447e-15, y: 2.5347878e-15, z: 0.09896994, w: 0.16002893}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0, y: 0, z: 0, w: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/chr_tails.fbx/Object_2/RootNode/Object_4/_rootJoint/CharacterModelTails_01/chr_tails_02/Reference_04/Hips_05/Spine_06/Spine1_07/Shoulder_R_027/UpperArm_R_028/ForeArm_R_029/ForeArmSub_R_031/Hand_R_032/Index1_R_033/Index2_R_034
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.59332573, y: 0.38427415, z: -0.6034033, w: 0.36905608}
+        inSlope: {x: 0.07569193, y: 0.054170784, z: 0.7199066, w: 0.9356233}
+        outSlope: {x: 0.07569193, y: 0.054170784, z: 0.7199066, w: 0.9356233}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0, w: 0}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.033333335
+        value: {x: 0.5958488, y: 0.38607985, z: -0.5794064, w: 0.40024352}
+        inSlope: {x: 0.15406518, y: 0.16807482, z: 0.85356915, w: 0.8388313}
+        outSlope: {x: 0.15406518, y: 0.16807482, z: 0.85356915, w: 0.8388313}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.06666667
+        value: {x: 0.60359675, y: 0.39547914, z: -0.54649866, w: 0.42497817}
+        inSlope: {x: 0.1722166, y: 0.22517145, z: 1.2273556, w: 1.1135589}
+        outSlope: {x: 0.1722166, y: 0.22517145, z: 1.2273556, w: 1.1135589}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.083333336
+        value: {x: 0.6054633, y: 0.3982852, z: -0.52204067, w: 0.44972947}
+        inSlope: {x: 0.11199475, y: 0.16836406, z: 1.4674796, w: 1.4850785}
+        outSlope: {x: 0.11199475, y: 0.16836406, z: 1.4674796, w: 1.4850785}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0, y: 0, z: 0, w: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/chr_tails.fbx/Object_2/RootNode/Object_4/_rootJoint/CharacterModelTails_01/chr_tails_02/Reference_04/Hips_05/Spine_06/Spine1_07/Shoulder_R_027/UpperArm_R_028/ForeArm_R_029/ForeArmSub_R_031/Hand_R_032/Index1_R_033
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -6.0631077e-18, y: 1.9860715e-16, z: -0.89474946, w: 0.44656846}
+        inSlope: {x: -3.2122924e-17, y: -7.357631e-15, z: 0.19174396, w: 0.3774887}
+        outSlope: {x: -3.2122924e-17, y: -7.357631e-15, z: 0.19174396, w: 0.3774887}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0, w: 0}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.033333335
+        value: {x: -7.133872e-18, y: -4.6647233e-17, z: -0.888358, w: 0.45915142}
+        inSlope: {x: 2.6395823e-16, y: -4.7576392e-15, z: 0.1950571, w: 0.37576616}
+        outSlope: {x: 2.6395823e-16, y: -4.7576392e-15, z: 0.1950571, w: 0.37576616}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.083333336
+        value: {x: 2.0868098e-17, y: -1.5452957e-16, z: -0.8784395, w: 0.4778536}
+        inSlope: {x: 5.600394e-16, y: -2.1576468e-15, z: 0.19837022, w: 0.37404358}
+        outSlope: {x: 5.600394e-16, y: -2.1576468e-15, z: 0.19837022, w: 0.37404358}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0, y: 0, z: 0, w: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/chr_tails.fbx/Object_2/RootNode/Object_4/_rootJoint/CharacterModelTails_01/chr_tails_02/Reference_04/Hips_05/Spine_06/Spine1_07/Shoulder_R_027/UpperArm_R_028/ForeArm_R_029/ForeArmSub_R_031/Hand_R_032/Middle1_R_035/Middle2_R_036
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.5297055, y: -0.4462944, z: 0.54141504, w: -0.47655338}
+        inSlope: {x: -0.09814202, y: 0.12645453, z: -0.43287453, w: -0.48543778}
+        outSlope: {x: -0.09814202, y: 0.12645453, z: -0.43287453, w: -0.48543778}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0, w: 0}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.033333335
+        value: {x: -0.5329769, y: -0.44207925, z: 0.5269859, w: -0.49273464}
+        inSlope: {x: -0.22815317, y: -0.016295165, z: -0.56875736, w: -0.3370787}
+        outSlope: {x: -0.22815317, y: -0.016295165, z: -0.56875736, w: -0.3370787}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.083333336
+        value: {x: -0.55088514, y: -0.4500315, z: 0.49175388, w: -0.5021706}
+        inSlope: {x: -0.3581643, y: -0.15904486, z: -0.70464015, w: -0.18871963}
+        outSlope: {x: -0.3581643, y: -0.15904486, z: -0.70464015, w: -0.18871963}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0, y: 0, z: 0, w: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/chr_tails.fbx/Object_2/RootNode/Object_4/_rootJoint/CharacterModelTails_01/chr_tails_02/Reference_04/Hips_05/Spine_06/Spine1_07/Shoulder_R_027/UpperArm_R_028/ForeArm_R_029/ForeArmSub_R_031/Hand_R_032/Middle1_R_035
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.00000050542616, y: -0.00000071139857, z: 0.8152028, w: -0.5791757}
+        inSlope: {x: 0.00000037413312, y: -0.00000023392657, z: 0.28919932, w: 0.41440484}
+        outSlope: {x: 0.00000037413312, y: -0.00000023392657, z: 0.28919932, w: 0.41440484}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0, w: 0}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.033333335
+        value: {x: -0.00000049295505, y: -0.0000007191961, z: 0.82484275, w: -0.5653622}
+        inSlope: {x: 0.00000036633367, y: -0.0000002454641, z: 0.2848035, w: 0.4174006}
+        outSlope: {x: 0.00000036633367, y: -0.0000002454641, z: 0.2848035, w: 0.4174006}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.083333336
+        value: {x: -0.00000047502834, y: -0.0000007320462, z: 0.83886313, w: -0.5443424}
+        inSlope: {x: 0.00000035853418, y: -0.0000002570016, z: 0.28040767, w: 0.42039633}
+        outSlope: {x: 0.00000035853418, y: -0.0000002570016, z: 0.28040767, w: 0.42039633}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0, y: 0, z: 0, w: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/chr_tails.fbx/Object_2/RootNode/Object_4/_rootJoint/CharacterModelTails_01/chr_tails_02/Reference_04/Hips_05/Spine_06/Spine1_07/Shoulder_R_027/UpperArm_R_028/ForeArm_R_029/ForeArmSub_R_031/Hand_R_032/Pinky1_R_037/Pinky2_R_038
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.42973146, y: -0.5500891, z: 0.35717878, w: -0.6206095}
+        inSlope: {x: -0.5383882, y: 0.3685784, z: 0.111292, w: 0.12232124}
+        outSlope: {x: -0.5383882, y: 0.3685784, z: 0.111292, w: 0.12232124}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0, w: 0}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.033333335
+        value: {x: -0.44767773, y: -0.5378032, z: 0.3608885, w: -0.61653215}
+        inSlope: {x: -0.5399848, y: 0.36500335, z: 0.10130167, w: 0.13609439}
+        outSlope: {x: -0.5399848, y: 0.36500335, z: 0.10130167, w: 0.13609439}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.083333336
+        value: {x: -0.4747568, y: -0.51973176, z: 0.36545408, w: -0.6090388}
+        inSlope: {x: -0.5415815, y: 0.36142826, z: 0.091311336, w: 0.14986753}
+        outSlope: {x: -0.5415815, y: 0.36142826, z: 0.091311336, w: 0.14986753}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0, y: 0, z: 0, w: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/chr_tails.fbx/Object_2/RootNode/Object_4/_rootJoint/CharacterModelTails_01/chr_tails_02/Reference_04/Hips_05/Spine_06/Spine1_07/Shoulder_R_027/UpperArm_R_028/ForeArm_R_029/ForeArmSub_R_031/Hand_R_032/Pinky1_R_037
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.00000077423266, y: -0.00000040262555, z: -0.8872061, w: 0.46137333}
+        inSlope: {x: -0.00000013972736, y: -0.0000002455738, z: 0.15089212, w: 0.28637585}
+        outSlope: {x: -0.00000013972736, y: -0.0000002455738, z: 0.15089212, w: 0.28637585}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0, w: 0}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.033333335
+        value: {x: 0.0000007695751, y: -0.00000041081134, z: -0.88217634, w: 0.4709192}
+        inSlope: {x: -0.00000013469872, y: -0.00000024828609, z: 0.15281528, w: 0.28534353}
+        outSlope: {x: -0.00000013469872, y: -0.00000024828609, z: 0.15281528, w: 0.28534353}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.083333336
+        value: {x: 0.0000007630916, y: -0.00000042336126, z: -0.8744394, w: 0.48513475}
+        inSlope: {x: -0.00000012967007, y: -0.00000025099837, z: 0.15473843, w: 0.28431118}
+        outSlope: {x: -0.00000012967007, y: -0.00000025099837, z: 0.15473843, w: 0.28431118}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0, y: 0, z: 0, w: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/chr_tails.fbx/Object_2/RootNode/Object_4/_rootJoint/CharacterModelTails_01/chr_tails_02/Reference_04/Hips_05/Spine_06/Spine1_07/Shoulder_R_027/UpperArm_R_028/ForeArm_R_029/ForeArmSub_R_031/Hand_R_032/Ring1_R_039/Ring2_R_040
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.45948657, y: -0.5108828, z: 0.49147126, w: -0.53509516}
+        inSlope: {x: -0.57180756, y: -0.3330123, z: -0.4753205, w: 0.3979933}
+        outSlope: {x: -0.57180756, y: -0.3330123, z: -0.4753205, w: 0.3979933}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0, w: 0}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.033333335
+        value: {x: -0.47854683, y: -0.5219832, z: 0.47562724, w: -0.5218287}
+        inSlope: {x: -0.5122658, y: 0.11077197, z: -0.43251467, w: -0.027546898}
+        outSlope: {x: -0.5122658, y: 0.11077197, z: -0.43251467, w: -0.027546898}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.083333336
+        value: {x: -0.50118303, y: -0.4942554, z: 0.4561418, w: -0.54448307}
+        inSlope: {x: -0.4527241, y: 0.55455625, z: -0.38970888, w: -0.4530871}
+        outSlope: {x: -0.4527241, y: 0.55455625, z: -0.38970888, w: -0.4530871}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0, y: 0, z: 0, w: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/chr_tails.fbx/Object_2/RootNode/Object_4/_rootJoint/CharacterModelTails_01/chr_tails_02/Reference_04/Hips_05/Spine_06/Spine1_07/Shoulder_R_027/UpperArm_R_028/ForeArm_R_029/ForeArmSub_R_031/Hand_R_032/Ring1_R_039
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.005779631, y: -0.0039153807, z: 0.7832082, w: -0.6217204}
+        inSlope: {x: 0.032353375, y: 0.027022604, z: 0.46370026, w: 0.5991053}
+        outSlope: {x: 0.032353375, y: 0.027022604, z: 0.46370026, w: 0.5991053}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0, w: 0}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.033333335
+        value: {x: -0.004701185, y: -0.0030146271, z: 0.79866487, w: -0.6017502}
+        inSlope: {x: 0.033116445, y: 0.025940921, z: 0.4540974, w: 0.6062925}
+        outSlope: {x: 0.033116445, y: 0.025940921, z: 0.4540974, w: 0.6062925}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.083333336
+        value: {x: -0.0030072094, y: -0.0017716653, z: 0.8208896, w: -0.5710762}
+        inSlope: {x: 0.03387951, y: 0.024859237, z: 0.4444945, w: 0.6134796}
+        outSlope: {x: 0.03387951, y: 0.024859237, z: 0.4444945, w: 0.6134796}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0, y: 0, z: 0, w: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/chr_tails.fbx/Object_2/RootNode/Object_4/_rootJoint/CharacterModelTails_01/chr_tails_02/Reference_04/Hips_05/Spine_06/Spine1_07/Shoulder_R_027/UpperArm_R_028/ForeArm_R_029/ForeArmSub_R_031/Hand_R_032/Thumb1_R_041/Thumb2_R_042
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.85037464, y: -0.20890531, z: -0.46188468, w: 0.14101087}
+        inSlope: {x: -0.15400885, y: -0.24863674, z: -0.10292172, w: 0.20686804}
+        outSlope: {x: -0.15400885, y: -0.24863674, z: -0.10292172, w: 0.20686804}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0, w: 0}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.033333335
+        value: {x: 0.845241, y: -0.2171932, z: -0.4653154, w: 0.14790647}
+        inSlope: {x: -0.15959144, y: -0.24673527, z: -0.10824025, w: 0.20504966}
+        outSlope: {x: -0.15959144, y: -0.24673527, z: -0.10824025, w: 0.20504966}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.083333336
+        value: {x: 0.8369823, y: -0.22943489, z: -0.47099334, w: 0.15806803}
+        inSlope: {x: -0.165174, y: -0.24483383, z: -0.11355877, w: 0.20323128}
+        outSlope: {x: -0.165174, y: -0.24483383, z: -0.11355877, w: 0.20323128}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0, y: 0, z: 0, w: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/chr_tails.fbx/Object_2/RootNode/Object_4/_rootJoint/CharacterModelTails_01/chr_tails_02/Reference_04/Hips_05/Spine_06/Spine1_07/Shoulder_R_027/UpperArm_R_028/ForeArm_R_029/ForeArmSub_R_031/Hand_R_032/Thumb1_R_041
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.15814568, y: -0.032837454, z: -0.13028464, w: -0.97823185}
+        inSlope: {x: 0.7029524, y: 0.35108057, z: -0.12348711, w: -0.103501074}
+        outSlope: {x: 0.7029524, y: 0.35108057, z: -0.12348711, w: -0.103501074}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0, w: 0}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.016666668
+        value: {x: -0.1464298, y: -0.026986111, z: -0.13234276, w: -0.97995687}
+        inSlope: {x: 0.7033243, y: 0.35243398, z: -0.11960416, w: -0.09864985}
+        outSlope: {x: 0.7033243, y: 0.35243398, z: -0.11960416, w: -0.09864985}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.033333335
+        value: {x: -0.13470154, y: -0.021089654, z: -0.13427144, w: -0.9815202}
+        inSlope: {x: 0.7039951, y: 0.35506737, z: -0.11181235, w: -0.08895099}
+        outSlope: {x: 0.7039951, y: 0.35506737, z: -0.11181235, w: -0.08895099}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.05
+        value: {x: -0.1229633, y: -0.015150531, z: -0.13606983, w: -0.9829219}
+        inSlope: {x: 0.7045175, y: 0.35755283, z: -0.103969574, w: -0.07925749}
+        outSlope: {x: 0.7045175, y: 0.35755283, z: -0.103969574, w: -0.07925749}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.06666667
+        value: {x: -0.11121762, y: -0.009171226, z: -0.1377371, w: -0.9841621}
+        inSlope: {x: 0.7048912, y: 0.3598891, z: -0.09607896, w: -0.06956935}
+        outSlope: {x: 0.7048912, y: 0.3598891, z: -0.09607896, w: -0.06956935}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.083333336
+        value: {x: -0.09946693, y: -0.0031542273, z: -0.13927247, w: -0.9852409}
+        inSlope: {x: 0.70504147, y: 0.36101994, z: -0.092122264, w: -0.064727075}
+        outSlope: {x: 0.70504147, y: 0.36101994, z: -0.092122264, w: -0.064727075}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0, y: 0, z: 0, w: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/chr_tails.fbx/Object_2/RootNode/Object_4/_rootJoint/CharacterModelTails_01/chr_tails_02/Reference_04/Hips_05/Spine_06/Spine1_07/Shoulder_R_027/UpperArm_R_028/ForeArm_R_029/ForeArmSub_R_031/Hand_R_032/Wrist_R_043
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.3107322, y: 0.06509633, z: 0.2544312, w: -0.9134948}
+        inSlope: {x: -0.86464757, y: -0.4804795, z: 0.118132524, w: -0.2759564}
+        outSlope: {x: -0.86464757, y: -0.4804795, z: 0.118132524, w: -0.2759564}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0, w: 0}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.033333335
+        value: {x: 0.2819106, y: 0.04908035, z: 0.25836894, w: -0.9226934}
+        inSlope: {x: -0.99854064, y: -0.5411251, z: 0.15032573, w: -0.29341218}
+        outSlope: {x: -0.99854064, y: -0.5411251, z: 0.15032573, w: -0.29341218}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.050000004
+        value: {x: 0.2630367, y: 0.039050836, z: 0.26141092, w: -0.9278745}
+        inSlope: {x: -1.5470228, y: -0.78312266, z: 0.28647602, w: -0.3530869}
+        outSlope: {x: -1.5470228, y: -0.78312266, z: 0.28647602, w: -0.3530869}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.083333336
+        value: {x: 0.19764964, y: 0.0069016824, z: 0.27442536, w: -0.94105136}
+        inSlope: {x: -1.9616117, y: -0.9644747, z: 0.3904331, w: -0.39530578}
+        outSlope: {x: -1.9616117, y: -0.9644747, z: 0.3904331, w: -0.39530578}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0, y: 0, z: 0, w: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/chr_tails.fbx/Object_2/RootNode/Object_4/_rootJoint/CharacterModelTails_01/chr_tails_02/Reference_04/Hips_05/Spine_06/Spine1_07/Shoulder_R_027/UpperArm_R_028/ForeArm_R_029/ForeArmSub_R_031/Hand_R_032
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -5.551108e-17, y: -4.163346e-17, z: -0.0000017453143, w: -1}
+        inSlope: {x: 8.326662e-16, y: 5.724602e-16, z: 0, w: 0}
+        outSlope: {x: 8.326662e-16, y: 5.724602e-16, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0, w: 0}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.033333335
+        value: {x: -2.7755536e-17, y: -2.2551453e-17, z: -0.0000017453143, w: -1}
+        inSlope: {x: 7.5893993e-16, y: 8.738682e-16, z: 0, w: 0}
+        outSlope: {x: 7.5893993e-16, y: 8.738682e-16, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.083333336
+        value: {x: 6.5051498e-18, y: 3.6212362e-17, z: -0.0000017453143, w: -1}
+        inSlope: {x: 6.852137e-16, y: 1.1752763e-15, z: 0, w: 0}
+        outSlope: {x: 6.852137e-16, y: 1.1752763e-15, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0, y: 0, z: 0, w: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/chr_tails.fbx/Object_2/RootNode/Object_4/_rootJoint/CharacterModelTails_01/chr_tails_02/Reference_04/Hips_05/Spine_06/Spine1_07/Shoulder_R_027/UpperArm_R_028/ForeArm_R_029/ForeArmSub_R_031
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.0000000681516, y: 0.0017903901, z: 0.4335883, w: -0.9011093}
+        inSlope: {x: -0.00003324761, y: 0.0040137963, z: 0.9757438, w: 0.4915863}
+        outSlope: {x: -0.00003324761, y: 0.0040137963, z: 0.9757438, w: 0.4915863}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0, w: 0}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.033333335
+        value: {x: -0.0000011764052, y: 0.0019241833, z: 0.4661131, w: -0.88472307}
+        inSlope: {x: 0.000016374672, y: 0.0041333693, z: 0.9994692, w: 0.52169585}
+        outSlope: {x: 0.000016374672, y: 0.0041333693, z: 0.9994692, w: 0.52169585}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.050000004
+        value: {x: -0.00000007645588, y: 0.0019950657, z: 0.48316634, w: -0.8755263}
+        inSlope: {x: 0.000032877848, y: 0.0045842375, z: 1.1069655, w: 0.62253714}
+        outSlope: {x: 0.000032877848, y: 0.0045842375, z: 1.1069655, w: 0.62253714}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.083333336
+        value: {x: -0.00000008449778, y: 0.0021589168, z: 0.52285755, w: -0.85241735}
+        inSlope: {x: -0.00000024125686, y: 0.0049155327, z: 1.1907364, w: 0.69326884}
+        outSlope: {x: -0.00000024125686, y: 0.0049155327, z: 1.1907364, w: 0.69326884}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0, y: 0, z: 0, w: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/chr_tails.fbx/Object_2/RootNode/Object_4/_rootJoint/CharacterModelTails_01/chr_tails_02/Reference_04/Hips_05/Spine_06/Spine1_07/Shoulder_R_027/UpperArm_R_028/ForeArm_R_029
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.065303035, y: -0.5082113, z: 0.099195376, w: -0.8530047}
+        inSlope: {x: -0.7569247, y: 0.25512725, z: -1.0219748, w: -0.29423115}
+        outSlope: {x: -0.7569247, y: 0.25512725, z: -1.0219748, w: -0.29423115}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0, w: 0}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.033333335
+        value: {x: 0.04007221, y: -0.49970707, z: 0.06512955, w: -0.8628124}
+        inSlope: {x: -1.0332674, y: 0.720662, z: -1.5716152, w: -0.48408568}
+        outSlope: {x: -1.0332674, y: 0.720662, z: -1.5716152, w: -0.48408568}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.083333336
+        value: {x: -0.02540829, y: -0.44039723, z: -0.040933236, w: -0.8965094}
+        inSlope: {x: -1.30961, y: 1.1861968, z: -2.1212556, w: -0.6739402}
+        outSlope: {x: -1.30961, y: 1.1861968, z: -2.1212556, w: -0.6739402}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0, y: 0, z: 0, w: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/chr_tails.fbx/Object_2/RootNode/Object_4/_rootJoint/CharacterModelTails_01/chr_tails_02/Reference_04/Hips_05/Spine_06/Spine1_07/Shoulder_R_027/UpperArm_R_028
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.70272195, y: -0.0786248, z: 0.70272195, w: -0.0786248}
+        inSlope: {x: -0.033690333, y: -0.2837949, z: -0.033690333, w: -0.2837949}
+        outSlope: {x: -0.033690333, y: -0.2837949, z: -0.033690333, w: -0.2837949}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0, w: 0}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.033333335
+        value: {x: 0.70159894, y: -0.08808463, z: 0.70159894, w: -0.08808463}
+        inSlope: {x: -0.036076605, y: -0.2834885, z: -0.036076605, w: -0.2834885}
+        outSlope: {x: -0.036076605, y: -0.2834885, z: -0.036076605, w: -0.2834885}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.083333336
+        value: {x: 0.6996758, y: -0.10224374, z: 0.6996758, w: -0.10224374}
+        inSlope: {x: -0.038462877, y: -0.2831821, z: -0.038462877, w: -0.2831821}
+        outSlope: {x: -0.038462877, y: -0.2831821, z: -0.038462877, w: -0.2831821}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0, y: 0, z: 0, w: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/chr_tails.fbx/Object_2/RootNode/Object_4/_rootJoint/CharacterModelTails_01/chr_tails_02/Reference_04/Hips_05/Spine_06/Spine1_07/Shoulder_R_027
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.0000009598325, y: -0.00000016788894, z: -0.15876122, w: -0.987317}
+        inSlope: {x: -0.255977, y: 0.017448206, z: 0.67842, w: -0.100039236}
+        outSlope: {x: -0.255977, y: 0.017448206, z: 0.67842, w: -0.100039236}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0, w: 0}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.033333335
+        value: {x: -0.008533527, y: 0.000581439, z: -0.13614722, w: -0.99065167}
+        inSlope: {x: -0.25533742, y: 0.024750646, z: 0.67928314, w: -0.08890569}
+        outSlope: {x: -0.25533742, y: 0.024750646, z: 0.67928314, w: -0.08890569}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.083333336
+        value: {x: -0.021268418, y: 0.0021840935, z: -0.1021399, w: -0.9945403}
+        inSlope: {x: -0.2546978, y: 0.032053087, z: 0.68014634, w: -0.07777214}
+        outSlope: {x: -0.2546978, y: 0.032053087, z: 0.68014634, w: -0.07777214}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0, y: 0, z: 0, w: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/chr_tails.fbx/Object_2/RootNode/Object_4/_rootJoint/CharacterModelTails_01/chr_tails_02/Reference_04/Hips_05/Spine_06/Spine1_07
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.0000016249573, y: -0.00000036287156, z: -0.15876122, w: -0.987317}
+        inSlope: {x: -0.30865398, y: 0.9654742, z: -0.3536394, w: 0.06662965}
+        outSlope: {x: -0.30865398, y: 0.9654742, z: -0.3536394, w: 0.06662965}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0, w: 0}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.016666668
+        value: {x: -0.005142608, y: 0.016090874, z: -0.16465521, w: -0.98620653}
+        inSlope: {x: -0.31431282, y: 0.96348226, z: -0.3543484, w: 0.07653594}
+        outSlope: {x: -0.31431282, y: 0.96348226, z: -0.3543484, w: 0.07653594}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.033333335
+        value: {x: -0.010475469, y: 0.032115713, z: -0.17057283, w: -0.9847658}
+        inSlope: {x: -0.3282463, y: 0.95813274, z: -0.35578784, w: 0.10131865}
+        outSlope: {x: -0.3282463, y: 0.95813274, z: -0.35578784, w: 0.10131865}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.06666667
+        value: {x: -0.021692835, y: 0.06394155, z: -0.18245678, w: -0.98089266}
+        inSlope: {x: -0.34457344, y: 0.9510532, z: -0.3569153, w: 0.13107866}
+        outSlope: {x: -0.34457344, y: 0.9510532, z: -0.3569153, w: 0.13107866}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.083333336
+        value: {x: -0.027569933, y: 0.07973041, z: -0.18841198, w: -0.97845995}
+        inSlope: {x: -0.3526259, y: 0.94733125, z: -0.3573123, w: 0.14596225}
+        outSlope: {x: -0.3526259, y: 0.94733125, z: -0.3573123, w: 0.14596225}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0, y: 0, z: 0, w: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/chr_tails.fbx/Object_2/RootNode/Object_4/_rootJoint/CharacterModelTails_01/chr_tails_02/Reference_04/Hips_05/Spine_06
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.00000027169602, y: -0.00000082929176, z: -0.3113391, w: -0.9502989}
+        inSlope: {x: 0.35648334, y: -1.0530102, z: -0.2730444, w: 0.1126635}
+        outSlope: {x: 0.35648334, y: -1.0530102, z: -0.2730444, w: 0.1126635}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0, w: 0}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.033333335
+        value: {x: 0.011882506, y: -0.035101175, z: -0.3204406, w: -0.94654346}
+        inSlope: {x: 0.36901075, y: -1.0474879, z: -0.26361272, w: 0.13854146}
+        outSlope: {x: 0.36901075, y: -1.0474879, z: -0.26361272, w: 0.13854146}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.083333336
+        value: {x: 0.030959414, y: -0.08719945, z: -0.33314964, w: -0.9383225}
+        inSlope: {x: 0.38153815, y: -1.0419655, z: -0.25418103, w: 0.16441941}
+        outSlope: {x: 0.38153815, y: -1.0419655, z: -0.25418103, w: 0.16441941}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0, y: 0, z: 0, w: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/chr_tails.fbx/Object_2/RootNode/Object_4/_rootJoint/CharacterModelTails_01/chr_tails_02/Reference_04/Hips_05/Tail1_L_044/Tail2_L_045/Tail3_L_046/Tail4_L_047
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.00000037472856, y: 0.00000078811297, z: -0.42940885, w: -0.9031102}
+        inSlope: {x: -0.0013759321, y: 0.0030080683, z: 0.40555534, w: -0.18913685}
+        outSlope: {x: -0.0013759321, y: 0.0030080683, z: 0.40555534, w: -0.18913685}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0, w: 0}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.033333335
+        value: {x: -0.000045489676, y: 0.000101057056, z: -0.41589034, w: -0.90941477}
+        inSlope: {x: -0.0013195608, y: 0.003033097, z: 0.40728122, w: -0.18533856}
+        outSlope: {x: -0.0013195608, y: 0.003033097, z: 0.40728122, w: -0.18533856}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.083333336
+        value: {x: -0.000108649154, y: 0.00025396334, z: -0.39543998, w: -0.9184918}
+        inSlope: {x: -0.0012631895, y: 0.0030581257, z: 0.40900707, w: -0.18154025}
+        outSlope: {x: -0.0012631895, y: 0.0030581257, z: 0.40900707, w: -0.18154025}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0, y: 0, z: 0, w: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/chr_tails.fbx/Object_2/RootNode/Object_4/_rootJoint/CharacterModelTails_01/chr_tails_02/Reference_04/Hips_05/Tail1_L_044/Tail2_L_045/Tail3_L_046
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.0000008513145, y: 0.000000191852, z: 0.2198462, w: -0.97553456}
+        inSlope: {x: 0.036259357, y: 0.23355426, z: -1.9931874, w: -0.37791607}
+        outSlope: {x: 0.036259357, y: 0.23355426, z: -1.9931874, w: -0.37791607}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0, w: 0}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.033333335
+        value: {x: 0.0012094966, y: 0.0077853343, z: 0.15340662, w: -0.98813176}
+        inSlope: {x: 0.016391153, y: 0.23560312, z: -2.0053656, w: -0.2918917}
+        outSlope: {x: 0.016391153, y: 0.23560312, z: -2.0053656, w: -0.2918917}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.083333336
+        value: {x: 0.0010356441, y: 0.019667933, z: 0.05252943, w: -0.9984251}
+        inSlope: {x: -0.003477051, y: 0.23765197, z: -2.0175438, w: -0.20586729}
+        outSlope: {x: -0.003477051, y: 0.23765197, z: -2.0175438, w: -0.20586729}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0, y: 0, z: 0, w: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/chr_tails.fbx/Object_2/RootNode/Object_4/_rootJoint/CharacterModelTails_01/chr_tails_02/Reference_04/Hips_05/Tail1_L_044/Tail2_L_045
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.6922129, y: -0.6971319, z: -0.15508094, w: -0.103915334}
+        inSlope: {x: 0.8070516, y: 1.1366272, z: -0.80007607, w: -0.58581406}
+        outSlope: {x: 0.8070516, y: 1.1366272, z: -0.80007607, w: -0.58581406}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0, w: 0}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.033333335
+        value: {x: 0.7191146, y: -0.6592443, z: -0.18175015, w: -0.12344247}
+        inSlope: {x: 1.2095778, y: 2.0453873, z: -1.284207, w: -1.0523351}
+        outSlope: {x: 1.2095778, y: 2.0453873, z: -1.284207, w: -1.0523351}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.06666667
+        value: {x: 0.7728514, y: -0.5607727, z: -0.24069475, w: -0.17407101}
+        inSlope: {x: 1.5446717, y: 3.381232, z: -1.8280656, w: -1.7336051}
+        outSlope: {x: 1.5446717, y: 3.381232, z: -1.8280656, w: -1.7336051}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.083333336
+        value: {x: 0.79747206, y: -0.49730077, z: -0.27215797, w: -0.20654358}
+        inSlope: {x: 1.4772393, y: 3.8083167, z: -1.8877933, w: -1.948354}
+        outSlope: {x: 1.4772393, y: 3.8083167, z: -1.8877933, w: -1.948354}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0, y: 0, z: 0, w: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/chr_tails.fbx/Object_2/RootNode/Object_4/_rootJoint/CharacterModelTails_01/chr_tails_02/Reference_04/Hips_05/Tail1_L_044
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.0000026814698, y: 0.00000065203943, z: 0.08312089, w: -0.9965395}
+        inSlope: {x: 0.0169717, y: 0.14098063, z: 1.0920048, w: 0.111572735}
+        outSlope: {x: 0.0169717, y: 0.14098063, z: 1.0920048, w: 0.111572735}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0, w: 0}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.033333335
+        value: {x: 0.0005630419, y: 0.0047000065, z: 0.11952105, w: -0.9928204}
+        inSlope: {x: 0.05543753, y: 0.22194381, z: 1.9127401, w: 0.319919}
+        outSlope: {x: 0.05543753, y: 0.22194381, z: 1.9127401, w: 0.319919}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.083333336
+        value: {x: 0.00525821, y: 0.019845357, z: 0.25619483, w: -0.9664071}
+        inSlope: {x: 0.09390336, y: 0.302907, z: 2.7334754, w: 0.52826524}
+        outSlope: {x: 0.09390336, y: 0.302907, z: 2.7334754, w: 0.52826524}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0, y: 0, z: 0, w: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/chr_tails.fbx/Object_2/RootNode/Object_4/_rootJoint/CharacterModelTails_01/chr_tails_02/Reference_04/Hips_05/Tail1_R_048/Tail2_R_049/Tail3_R_050/Tail4_R_051
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.00000007253665, y: -0.00000086964474, z: 0.083119154, w: -0.9965396}
+        inSlope: {x: -0.044686474, y: -0.4461453, z: 0.49599764, w: 0.048885938}
+        outSlope: {x: -0.044686474, y: -0.4461453, z: 0.49599764, w: 0.048885938}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0, w: 0}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.033333335
+        value: {x: -0.0014894767, y: -0.0148723805, z: 0.09965241, w: -0.99491006}
+        inSlope: {x: -0.05393025, y: -0.44502947, z: 0.4948773, w: 0.058182776}
+        outSlope: {x: -0.05393025, y: -0.44502947, z: 0.4948773, w: 0.058182776}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.083333336
+        value: {x: -0.004648178, y: -0.03706806, z: 0.12434026, w: -0.9915361}
+        inSlope: {x: -0.063174024, y: -0.44391364, z: 0.49375698, w: 0.06747961}
+        outSlope: {x: -0.063174024, y: -0.44391364, z: 0.49375698, w: 0.06747961}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0, y: 0, z: 0, w: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/chr_tails.fbx/Object_2/RootNode/Object_4/_rootJoint/CharacterModelTails_01/chr_tails_02/Reference_04/Hips_05/Tail1_R_048/Tail2_R_049/Tail3_R_050
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.0000008696448, y: -0.0000000725359, z: 0.08312002, w: -0.99653953}
+        inSlope: {x: -0.0059199915, y: -0.124934316, z: -1.0736881, w: -0.06993234}
+        outSlope: {x: -0.0059199915, y: -0.124934316, z: -1.0736881, w: -0.06993234}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0, w: 0}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.033333335
+        value: {x: -0.00019820272, y: -0.00416455, z: 0.047330413, w: -0.9988706}
+        inSlope: {x: -0.0019771147, y: -0.14182696, z: -1.2320021, w: -0.059395727}
+        outSlope: {x: -0.0019771147, y: -0.14182696, z: -1.2320021, w: -0.059395727}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.050000004
+        value: {x: -0.00016544001, y: -0.006809877, z: 0.024158474, w: -0.99968493}
+        inSlope: {x: 0.016172996, y: -0.20993847, z: -1.8761592, w: -0.004987115}
+        outSlope: {x: 0.016172996, y: -0.20993847, z: -1.8761592, w: -0.004987115}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.083333336
+        value: {x: 0.0008472343, y: -0.015515121, z: -0.054574933, w: -0.99838877}
+        inSlope: {x: 0.03038023, y: -0.26115733, z: -2.3620024, w: 0.038884882}
+        outSlope: {x: 0.03038023, y: -0.26115733, z: -2.3620024, w: 0.038884882}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0, y: 0, z: 0, w: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/chr_tails.fbx/Object_2/RootNode/Object_4/_rootJoint/CharacterModelTails_01/chr_tails_02/Reference_04/Hips_05/Tail1_R_048/Tail2_R_049
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.8072459, y: -0.5599149, z: 0.13364579, w: 0.13033894}
+        inSlope: {x: -0.15275, y: -0.55478096, z: -0.87258893, w: -0.75509655}
+        outSlope: {x: -0.15275, y: -0.55478096, z: -0.87258893, w: -0.75509655}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0, w: 0}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.033333335
+        value: {x: 0.80215424, y: -0.5784076, z: 0.10455949, w: 0.10516905}
+        inSlope: {x: -0.19759294, y: -0.611878, z: -1.0157595, w: -0.8209028}
+        outSlope: {x: -0.19759294, y: -0.611878, z: -1.0157595, w: -0.8209028}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.050000004
+        value: {x: 0.79811364, y: -0.5895572, z: 0.085243985, w: 0.09039056}
+        inSlope: {x: -0.3310901, y: -0.80471635, z: -1.5333979, w: -1.0399469}
+        outSlope: {x: -0.3310901, y: -0.80471635, z: -1.5333979, w: -1.0399469}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.06666667
+        value: {x: 0.7911179, y: -0.60523146, z: 0.053446222, w: 0.07050415}
+        inSlope: {x: -0.49600667, y: -0.96712774, z: -2.057052, w: -1.2963713}
+        outSlope: {x: -0.49600667, y: -0.96712774, z: -2.057052, w: -1.2963713}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.083333336
+        value: {x: 0.7815801, y: -0.62179476, z: 0.016675595, w: 0.047178186}
+        inSlope: {x: -0.572269, y: -0.99379784, z: -2.2062378, w: -1.399558}
+        outSlope: {x: -0.572269, y: -0.99379784, z: -2.2062378, w: -1.399558}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0, y: 0, z: 0, w: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/chr_tails.fbx/Object_2/RootNode/Object_4/_rootJoint/CharacterModelTails_01/chr_tails_02/Reference_04/Hips_05/Tail1_R_048
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.028556265, y: 0.1088068, z: 0.0021323208, w: -0.9936504}
+        inSlope: {x: -0.15639412, y: -0.31770718, z: 0.40974808, w: -0.035934445}
+        outSlope: {x: -0.15639412, y: -0.31770718, z: 0.40974808, w: -0.035934445}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0, w: 0}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.016666668
+        value: {x: 0.025949696, y: 0.103511676, z: 0.008961456, w: -0.9942493}
+        inSlope: {x: -0.15882447, y: -0.3165118, z: 0.41104537, w: -0.033384558}
+        outSlope: {x: -0.15882447, y: -0.3165118, z: 0.41104537, w: -0.033384558}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.033333335
+        value: {x: 0.023262115, y: 0.0982564, z: 0.015833834, w: -0.9947632}
+        inSlope: {x: -0.16366336, y: -0.31408334, z: 0.4136061, w: -0.028259754}
+        outSlope: {x: -0.16366336, y: -0.31408334, z: 0.4136061, w: -0.028259754}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.05
+        value: {x: 0.02049425, y: 0.09304223, z: 0.022748327, w: -0.9951913}
+        inSlope: {x: -0.16845803, y: -0.31158012, z: 0.41609877, w: -0.023081303}
+        outSlope: {x: -0.16845803, y: -0.31158012, z: 0.41609877, w: -0.023081303}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.06666667
+        value: {x: 0.017646847, y: 0.0878704, z: 0.029703794, w: -0.9955326}
+        inSlope: {x: -0.17320737, y: -0.3090032, z: 0.41852212, w: -0.017849205}
+        outSlope: {x: -0.17320737, y: -0.3090032, z: 0.41852212, w: -0.017849205}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.083333336
+        value: {x: 0.014720671, y: 0.082742125, z: 0.036699064, w: -0.99578625}
+        inSlope: {x: -0.17557059, y: -0.30769634, z: 0.41971624, w: -0.015220643}
+        outSlope: {x: -0.17557059, y: -0.30769634, z: 0.41971624, w: -0.015220643}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0, y: 0, z: 0, w: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/chr_tails.fbx/Object_2/RootNode/Object_4/_rootJoint/CharacterModelTails_01/chr_tails_02/Reference_04/Hips_05/Thigh_L_052/Calf_L_053/Foot_L_054/Socks_L_055
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -2.1996138e-16, y: 9.4057106e-17, z: -0.70710677, w: -0.70710677}
+        inSlope: {x: 1.5073488e-15, y: 3.538738e-17, z: 0, w: 0}
+        outSlope: {x: 1.5073488e-15, y: 3.538738e-17, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0, w: 0}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.033333335
+        value: {x: -1.6971642e-16, y: 9.5236685e-17, z: -0.70710677, w: -0.70710677}
+        inSlope: {x: 6.9869154e-16, y: -1.3542003e-16, z: 0, w: 0}
+        outSlope: {x: 6.9869154e-16, y: -1.3542003e-16, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.083333336
+        value: {x: -1.7521471e-16, y: 7.9925314e-17, z: -0.70710677, w: -0.70710677}
+        inSlope: {x: -1.0996579e-16, y: -3.0622742e-16, z: 0, w: 0}
+        outSlope: {x: -1.0996579e-16, y: -3.0622742e-16, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0, y: 0, z: 0, w: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/chr_tails.fbx/Object_2/RootNode/Object_4/_rootJoint/CharacterModelTails_01/chr_tails_02/Reference_04/Hips_05/Thigh_L_052/Calf_L_053/Foot_L_054/Toe_L_056
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.054506514, y: -0.14496827, z: 0.025337348, w: -0.98760885}
+        inSlope: {x: 0.14272772, y: 0.12515187, z: -1.1608142, w: -0.0443387}
+        outSlope: {x: 0.14272772, y: 0.12515187, z: -1.1608142, w: -0.0443387}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0, w: 0}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.016666668
+        value: {x: -0.05212772, y: -0.1428824, z: 0.0059904438, w: -0.9883478}
+        inSlope: {x: 0.29098034, y: 0.2584688, z: -2.166871, w: -0.027784107}
+        outSlope: {x: 0.29098034, y: 0.2584688, z: -2.166871, w: -0.027784107}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.033333335
+        value: {x: -0.04480717, y: -0.13635264, z: -0.046891693, w: -0.988535}
+        inSlope: {x: 0.4991577, y: 0.44175172, z: -3.399338, w: 0.09170292}
+        outSlope: {x: 0.4991577, y: 0.44175172, z: -3.399338, w: 0.09170292}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.050000004
+        value: {x: -0.035489127, y: -0.12815735, z: -0.10732084, w: -0.98529106}
+        inSlope: {x: 0.6850804, y: 0.56909955, z: -3.6539226, w: 0.36743492}
+        outSlope: {x: 0.6850804, y: 0.56909955, z: -3.6539226, w: 0.36743492}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.083333336
+        value: {x: -0.008453183, y: -0.106607966, z: -0.2300574, w: -0.96728325}
+        inSlope: {x: 0.81107837, y: 0.64648145, z: -3.6820972, w: 0.5402345}
+        outSlope: {x: 0.81107837, y: 0.64648145, z: -3.6820972, w: 0.5402345}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0, y: 0, z: 0, w: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/chr_tails.fbx/Object_2/RootNode/Object_4/_rootJoint/CharacterModelTails_01/chr_tails_02/Reference_04/Hips_05/Thigh_L_052/Calf_L_053/Foot_L_054
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.08181111, y: 0.04712163, z: 0.06984203, w: -0.9930804}
+        inSlope: {x: -0.15285416, y: -0.033650994, z: -1.3098831, w: -0.077004425}
+        outSlope: {x: -0.15285416, y: -0.033650994, z: -1.3098831, w: -0.077004425}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0, w: 0}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.033333335
+        value: {x: 0.07671597, y: 0.04599993, z: 0.026179262, w: -0.9956472}
+        inSlope: {x: -0.23748854, y: -0.13516408, z: -1.8978013, w: -0.009437796}
+        outSlope: {x: -0.23748854, y: -0.13516408, z: -1.8978013, w: -0.009437796}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.083333336
+        value: {x: 0.06060982, y: 0.03416607, z: -0.09810671, w: -0.99274075}
+        inSlope: {x: -0.32212293, y: -0.23667715, z: -2.4857194, w: 0.058128834}
+        outSlope: {x: -0.32212293, y: -0.23667715, z: -2.4857194, w: 0.058128834}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0, y: 0, z: 0, w: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/chr_tails.fbx/Object_2/RootNode/Object_4/_rootJoint/CharacterModelTails_01/chr_tails_02/Reference_04/Hips_05/Thigh_L_052/Calf_L_053/Knee_L_057
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.0070519224, y: 0.008384554, z: 0.6450831, w: -0.76403385}
+        inSlope: {x: -0.0097495215, y: -0.002753846, z: -0.40996847, w: -0.3400701}
+        outSlope: {x: -0.0097495215, y: -0.002753846, z: -0.40996847, w: -0.3400701}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0, w: 0}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.033333335
+        value: {x: 0.0067269383, y: 0.008292759, z: 0.6314175, w: -0.7753695}
+        inSlope: {x: -0.011396838, y: -0.0034706946, z: -0.4897195, w: -0.39629814}
+        outSlope: {x: -0.011396838, y: -0.0034706946, z: -0.4897195, w: -0.39629814}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.06666667
+        value: {x: 0.006292133, y: 0.008153174, z: 0.61243516, w: -0.79045373}
+        inSlope: {x: -0.02882177, y: -0.010685335, z: -1.3199553, w: -0.99358416}
+        outSlope: {x: -0.02882177, y: -0.010685335, z: -1.3199553, w: -0.99358416}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.083333336
+        value: {x: 0.00554881, y: 0.007866789, z: 0.5779278, w: -0.8160311}
+        inSlope: {x: -0.044599384, y: -0.017183127, z: -2.0704403, w: -1.5346421}
+        outSlope: {x: -0.044599384, y: -0.017183127, z: -2.0704403, w: -1.5346421}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0, y: 0, z: 0, w: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/chr_tails.fbx/Object_2/RootNode/Object_4/_rootJoint/CharacterModelTails_01/chr_tails_02/Reference_04/Hips_05/Thigh_L_052/Calf_L_053
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.65127254, y: 0.74659485, z: 0.08013336, w: 0.109630585}
+        inSlope: {x: -1.0128558, y: 0.85233086, z: 0.0497058, w: 0.04267394}
+        outSlope: {x: -1.0128558, y: 0.85233086, z: 0.0497058, w: 0.04267394}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0, w: 0}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.016666668
+        value: {x: 0.6343916, y: 0.76080036, z: 0.08096179, w: 0.11034182}
+        inSlope: {x: -2.401158, y: 1.8575745, z: 0.013558119, w: 0.1971448}
+        outSlope: {x: -2.401158, y: 1.8575745, z: 0.013558119, w: 0.1971448}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.033333335
+        value: {x: 0.5712339, y: 0.808514, z: 0.0805853, w: 0.11620208}
+        inSlope: {x: -4.3244877, y: 2.7851968, z: 0.02848718, w: 0.43428952}
+        outSlope: {x: -4.3244877, y: 2.7851968, z: 0.02848718, w: 0.43428952}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.06666667
+        value: {x: 0.40925008, y: 0.8987665, z: 0.08323743, w: 0.13343419}
+        inSlope: {x: -5.8306103, y: 2.580142, z: -0.024513502, w: 0.7993523}
+        outSlope: {x: -5.8306103, y: 2.580142, z: -0.024513502, w: 0.7993523}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.083333336
+        value: {x: 0.29588833, y: 0.939645, z: 0.08109425, w: 0.15146321}
+        inSlope: {x: -6.8017054, y: 2.4527087, z: -0.12859093, w: 1.0817412}
+        outSlope: {x: -6.8017054, y: 2.4527087, z: -0.12859093, w: 1.0817412}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0, y: 0, z: 0, w: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/chr_tails.fbx/Object_2/RootNode/Object_4/_rootJoint/CharacterModelTails_01/chr_tails_02/Reference_04/Hips_05/Thigh_L_052
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.022109259, y: -0.1063335, z: 0.23303057, w: -0.9663856}
+        inSlope: {x: -0.22548369, y: 0.17025231, z: -1.0686779, w: -0.26014924}
+        outSlope: {x: -0.22548369, y: 0.17025231, z: -1.0686779, w: -0.26014924}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0, w: 0}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.016666668
+        value: {x: -0.02586732, y: -0.10349596, z: 0.21521927, w: -0.9707214}
+        inSlope: {x: -0.23856118, y: 0.2028816, z: -1.3675953, w: -0.31102538}
+        outSlope: {x: -0.23856118, y: 0.2028816, z: -1.3675953, w: -0.31102538}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.033333335
+        value: {x: -0.030061299, y: -0.09957078, z: 0.18744406, w: -0.9767531}
+        inSlope: {x: -0.30499834, y: 0.32046163, z: -2.568613, w: -0.47501564}
+        outSlope: {x: -0.30499834, y: 0.32046163, z: -2.568613, w: -0.47501564}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.05
+        value: {x: -0.036033932, y: -0.09281391, z: 0.12959884, w: -0.9865553}
+        inSlope: {x: -0.39696229, y: 0.41787407, z: -3.799551, w: -0.503211}
+        outSlope: {x: -0.39696229, y: 0.41787407, z: -3.799551, w: -0.503211}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.06666667
+        value: {x: -0.043293376, y: -0.085641645, z: 0.06079235, w: -0.9935268}
+        inSlope: {x: -0.42104253, y: 0.46865386, z: -4.021564, w: -0.27579007}
+        outSlope: {x: -0.42104253, y: 0.46865386, z: -4.021564, w: -0.27579007}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.083333336
+        value: {x: -0.050068684, y: -0.07719211, z: -0.004453299, w: -0.9957483}
+        inSlope: {x: -0.40651852, y: 0.50697196, z: -3.9147394, w: -0.13328792}
+        outSlope: {x: -0.40651852, y: 0.50697196, z: -3.9147394, w: -0.13328792}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0, y: 0, z: 0, w: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/chr_tails.fbx/Object_2/RootNode/Object_4/_rootJoint/CharacterModelTails_01/chr_tails_02/Reference_04/Hips_05/Thigh_R_058/Calf_R_059/Foot_R_060/Socks_R_061
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -3.3683464e-16, y: -3.80238e-16, z: -0.9189634, w: -0.3943429}
+        inSlope: {x: 6.836885e-15, y: 1.4637217e-14, z: -0.5489445, w: 1.3225721}
+        outSlope: {x: 6.836885e-15, y: 1.4637217e-14, z: -0.5489445, w: 1.3225721}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0, w: 0}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.016666668
+        value: {x: -2.2288656e-16, y: -1.3628435e-16, z: -0.92811245, w: -0.37230003}
+        inSlope: {x: 5.04108e-15, y: 9.45218e-15, z: -0.5330837, w: 1.3289335}
+        outSlope: {x: 5.04108e-15, y: 9.45218e-15, z: -0.5330837, w: 1.3289335}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.033333335
+        value: {x: -1.6879863e-16, y: -6.516529e-17, z: -0.9367328, w: -0.3500451}
+        inSlope: {x: -3.5294518e-16, y: -1.1133132e-15, z: 0.20896015, w: -0.44490385}
+        outSlope: {x: -3.5294518e-16, y: -1.1133132e-15, z: 0.20896015, w: -0.44490385}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.06666667
+        value: {x: -3.0050416e-16, y: -2.816243e-16, z: -0.9055614, w: -0.4242152}
+        inSlope: {x: 1.6144982e-15, y: 1.9184182e-14, z: 1.6085316, w: -3.307672}
+        outSlope: {x: 1.6144982e-15, y: 1.9184182e-14, z: 1.6085316, w: -3.307672}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.083333336
+        value: {x: -1.808348e-16, y: 4.660778e-16, z: -0.8675294, w: -0.4973859}
+        inSlope: {x: 7.180162e-15, y: 4.486213e-14, z: 2.28192, w: -4.3902416}
+        outSlope: {x: 7.180162e-15, y: 4.486213e-14, z: 2.28192, w: -4.3902416}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0, y: 0, z: 0, w: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/chr_tails.fbx/Object_2/RootNode/Object_4/_rootJoint/CharacterModelTails_01/chr_tails_02/Reference_04/Hips_05/Thigh_R_058/Calf_R_059/Foot_R_060/Toe_R_062
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.06510823, y: 0.15691161, z: -0.40557972, w: -0.89813405}
+        inSlope: {x: 0.2811422, y: -0.23139505, z: 1.191008, w: -0.5811166}
+        outSlope: {x: 0.2811422, y: -0.23139505, z: 1.191008, w: -0.5811166}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0, w: 0}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.016666668
+        value: {x: -0.06042253, y: 0.15305503, z: -0.38572958, w: -0.90781933}
+        inSlope: {x: 0.58156246, y: -0.4340708, z: 2.7896528, w: -1.1969732}
+        outSlope: {x: 0.58156246, y: -0.4340708, z: 2.7896528, w: -1.1969732}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.033333335
+        value: {x: -0.045722816, y: 0.14244258, z: -0.31259128, w: -0.93803316}
+        inSlope: {x: 0.89630353, y: -0.731251, z: 5.011634, w: -1.7692242}
+        outSlope: {x: 0.89630353, y: -0.731251, z: 5.011634, w: -1.7692242}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.050000004
+        value: {x: -0.03054574, y: 0.12867999, z: -0.21867509, w: -0.9667935}
+        inSlope: {x: 0.93120384, y: -0.92538846, z: 6.824649, w: -1.5588264}
+        outSlope: {x: 0.93120384, y: -0.92538846, z: 6.824649, w: -1.5588264}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.06666667
+        value: {x: -0.014682686, y: 0.1115963, z: -0.08510299, w: -0.98999405}
+        inSlope: {x: 0.9858172, y: -1.0640109, z: 7.7435236, w: -0.84205455}
+        outSlope: {x: 0.9858172, y: -1.0640109, z: 7.7435236, w: -0.84205455}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.083333336
+        value: {x: 0.0023148314, y: 0.09321296, z: 0.039442327, w: -0.99486196}
+        inSlope: {x: 1.0198511, y: -1.1030004, z: 7.4727197, w: -0.2920747}
+        outSlope: {x: 1.0198511, y: -1.1030004, z: 7.4727197, w: -0.2920747}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0, y: 0, z: 0, w: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/chr_tails.fbx/Object_2/RootNode/Object_4/_rootJoint/CharacterModelTails_01/chr_tails_02/Reference_04/Hips_05/Thigh_R_058/Calf_R_059/Foot_R_060
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.0858611, y: -0.06555527, z: -0.039515834, w: -0.9933624}
+        inSlope: {x: 0.036992576, y: 0.26701435, z: 0.45711288, w: -0.034257174}
+        outSlope: {x: 0.036992576, y: 0.26701435, z: 0.45711288, w: -0.034257174}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0, w: 0}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.033333335
+        value: {x: -0.084628016, y: -0.05665479, z: -0.024278738, w: -0.99450433}
+        inSlope: {x: 0.054922692, y: 0.279708, z: 0.3694456, w: -0.03127992}
+        outSlope: {x: 0.054922692, y: 0.279708, z: 0.3694456, w: -0.03127992}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.050000004
+        value: {x: -0.0834138, y: -0.051781427, z: -0.019582432, w: -0.99497604}
+        inSlope: {x: 0.15043773, y: 0.36440623, z: -0.18872698, w: -0.025740266}
+        outSlope: {x: 0.15043773, y: 0.36440623, z: -0.18872698, w: -0.025740266}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.06666667
+        value: {x: -0.079613425, y: -0.044507913, z: -0.030569635, w: -0.99536234}
+        inSlope: {x: 0.30413303, y: 0.3837212, z: -1.8675997, w: 0.053780086}
+        outSlope: {x: 0.30413303, y: 0.3837212, z: -1.8675997, w: 0.053780086}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.083333336
+        value: {x: -0.073276035, y: -0.03899072, z: -0.081835754, w: -0.9931834}
+        inSlope: {x: 0.3802434, y: 0.33103156, z: -3.0759673, w: 0.13073803}
+        outSlope: {x: 0.3802434, y: 0.33103156, z: -3.0759673, w: 0.13073803}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0, y: 0, z: 0, w: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/chr_tails.fbx/Object_2/RootNode/Object_4/_rootJoint/CharacterModelTails_01/chr_tails_02/Reference_04/Hips_05/Thigh_R_058/Calf_R_059/Knee_R_00
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.0024865032, y: -0.001994577, z: 0.7816561, w: -0.6237015}
+        inSlope: {x: 0.009202309, y: -0.0002800254, z: -1.2362515, w: -1.4989327}
+        outSlope: {x: 0.009202309, y: -0.0002800254, z: -1.2362515, w: -1.4989327}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0, w: 0}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.016666668
+        value: {x: -0.0023331314, y: -0.001999244, z: 0.7610519, w: -0.6486837}
+        inSlope: {x: 0.015793467, y: 0.0005221506, z: -2.2710404, w: -2.5364988}
+        outSlope: {x: 0.015793467, y: 0.0005221506, z: -2.2710404, w: -2.5364988}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.033333335
+        value: {x: -0.0019600543, y: -0.001977172, z: 0.70595473, w: -0.7082515}
+        inSlope: {x: 0.024689302, y: 0.0035366109, z: -3.9858925, w: -3.8812044}
+        outSlope: {x: 0.024689302, y: 0.0035366109, z: -3.9858925, w: -3.8812044}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.050000004
+        value: {x: -0.0015101546, y: -0.001881357, z: 0.6281888, w: -0.7780572}
+        inSlope: {x: 0.024026182, y: 0.007000775, z: -4.4976745, w: -3.6871967}
+        outSlope: {x: 0.024026182, y: 0.007000775, z: -4.4976745, w: -3.6871967}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.06666667
+        value: {x: -0.0011591815, y: -0.0017438128, z: 0.55603224, w: -0.83115804}
+        inSlope: {x: 0.012529815, y: 0.0051355367, z: -2.6205614, w: -1.8920375}
+        outSlope: {x: 0.012529815, y: 0.0051355367, z: -2.6205614, w: -1.8920375}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.083333336
+        value: {x: -0.0010924941, y: -0.0017101725, z: 0.54083675, w: -0.84112513}
+        inSlope: {x: 0.0040012416, y: 0.0020184184, z: -0.9117294, w: -0.5980254}
+        outSlope: {x: 0.0040012416, y: 0.0020184184, z: -0.9117294, w: -0.5980254}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0, y: 0, z: 0, w: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/chr_tails.fbx/Object_2/RootNode/Object_4/_rootJoint/CharacterModelTails_01/chr_tails_02/Reference_04/Hips_05/Thigh_R_058/Calf_R_059
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.12886856, y: 0.98022354, z: -0.09379324, w: -0.1172925}
+        inSlope: {x: -2.172857, y: 0.33679602, z: 0.05650788, w: 0.76773}
+        outSlope: {x: -2.172857, y: 0.33679602, z: 0.05650788, w: 0.76773}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0, w: 0}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.016666668
+        value: {x: 0.09265428, y: 0.9858368, z: -0.092851445, w: -0.104497}
+        inSlope: {x: -3.6534367, y: 0.38206455, z: 0.038475167, w: 1.3093629}
+        outSlope: {x: -3.6534367, y: 0.38206455, z: 0.038475167, w: 1.3093629}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.033333335
+        value: {x: 0.007087337, y: 0.992959, z: -0.09251074, w: -0.07364707}
+        inSlope: {x: -5.6219916, y: 0.13612568, z: -0.016224232, w: 1.988637}
+        outSlope: {x: -5.6219916, y: 0.13612568, z: -0.016224232, w: 1.988637}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.050000004
+        value: {x: -0.094745465, y: 0.9903743, z: -0.09339225, w: -0.038209096}
+        inSlope: {x: -5.62819, y: -0.4096055, z: 0.04810029, w: 1.8956258}
+        outSlope: {x: -5.62819, y: -0.4096055, z: 0.04810029, w: 1.8956258}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.06666667
+        value: {x: -0.18051901, y: 0.9793055, z: -0.090907395, w: -0.010459534}
+        inSlope: {x: -3.574349, y: -0.50900644, z: 0.34766504, w: 1.3288901}
+        outSlope: {x: -3.574349, y: -0.50900644, z: 0.34766504, w: 1.3288901}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.083333336
+        value: {x: -0.21389042, y: 0.97340745, z: -0.08180342, w: 0.0060872417}
+        inSlope: {x: -2.0022843, y: -0.35388353, z: 0.5462386, w: 0.99280655}
+        outSlope: {x: -2.0022843, y: -0.35388353, z: 0.5462386, w: 0.99280655}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0, y: 0, z: 0, w: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/chr_tails.fbx/Object_2/RootNode/Object_4/_rootJoint/CharacterModelTails_01/chr_tails_02/Reference_04/Hips_05/Thigh_R_058
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.7071069, y: -0.0000012240404, z: -0.7071067, w: -0.0000012240407}
+        inSlope: {x: 0.773102, y: 0.24375795, z: 0.78822964, w: -0.071637206}
+        outSlope: {x: 0.773102, y: 0.24375795, z: 0.78822964, w: -0.071637206}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0, w: 0}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.016666668
+        value: {x: 0.7199919, y: 0.0040614083, z: -0.69396955, w: -0.0011951774}
+        inSlope: {x: 0.7112878, y: 0.39349422, z: 0.7410138, w: -0.22643144}
+        outSlope: {x: 0.7112878, y: 0.39349422, z: 0.7410138, w: -0.22643144}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.033333335
+        value: {x: 0.7308165, y: 0.01311525, z: -0.68240625, w: -0.007548939}
+        inSlope: {x: 0.5663216, y: 0.679248, z: 0.6268126, w: -0.50749844}
+        outSlope: {x: 0.5663216, y: 0.679248, z: 0.6268126, w: -0.50749844}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.05
+        value: {x: 0.7388693, y: 0.026703006, z: -0.6730758, w: -0.018111791}
+        inSlope: {x: 0.39833665, y: 0.92723846, z: 0.49598336, w: -0.72129595}
+        outSlope: {x: 0.39833665, y: 0.92723846, z: 0.49598336, w: -0.72129595}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.06666667
+        value: {x: 0.7440944, y: 0.0440232, z: -0.66587347, w: -0.031592138}
+        inSlope: {x: 0.5778104, y: 1.1341071, z: 0.7667613, w: -0.7294163}
+        outSlope: {x: 0.5778104, y: 1.1341071, z: 0.7667613, w: -0.7294163}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.083333336
+        value: {x: 0.75812966, y: 0.064506575, z: -0.6475171, w: -0.04242567}
+        inSlope: {x: 0.84211713, y: 1.2290026, z: 1.1013831, w: -0.65001196}
+        outSlope: {x: 0.84211713, y: 1.2290026, z: 1.1013831, w: -0.65001196}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0, y: 0, z: 0, w: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/chr_tails.fbx/Object_2/RootNode/Object_4/_rootJoint/CharacterModelTails_01/chr_tails_02/Reference_04/Hips_05
+  m_CompressedRotationCurves: []
+  m_EulerCurves: []
+  m_PositionCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.0645, y: 5.551115e-17, z: -8.326673e-17}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: -0, y: -0, z: -0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.033333335
+        value: {x: 0.0645, y: 5.551115e-17, z: -8.326673e-17}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: -0, y: -0, z: 1.110223e-15}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.083333336
+        value: {x: 0.0645, y: 5.551115e-17, z: -2.7755576e-17}
+        inSlope: {x: 0, y: 0, z: 1.110223e-15}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/chr_tails.fbx/Object_2/RootNode/Object_4/_rootJoint/CharacterModelTails_01/chr_tails_02/Reference_04/Hips_05/Spine_06/Spine1_07/Shoulder_L_010/UpperArm_L_011/ForeArm_L_012/ForeArmSub_L_014/Hand_L_015/Index1_L_016/Index2_L_017
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.07203, y: 1.110223e-16, z: 1.3877788e-17}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: -0, y: -0, z: 1.2490008e-15}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.033333335
+        value: {x: 0.07203, y: 1.110223e-16, z: 5.551115e-17}
+        inSlope: {x: 0, y: 0, z: 1.2490008e-15}
+        outSlope: {x: -0, y: -0, z: -1.110223e-15}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.083333336
+        value: {x: 0.07203, y: 1.110223e-16, z: -0}
+        inSlope: {x: 0, y: 0, z: -1.110223e-15}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/chr_tails.fbx/Object_2/RootNode/Object_4/_rootJoint/CharacterModelTails_01/chr_tails_02/Reference_04/Hips_05/Spine_06/Spine1_07/Shoulder_L_010/UpperArm_L_011/ForeArm_L_012/ForeArmSub_L_014/Hand_L_015/Middle1_L_018/Middle2_L_019
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.05051, y: -2.7755576e-17, z: -5.551115e-17}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: -0, y: -0, z: 1.6653344e-15}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.033333335
+        value: {x: 0.05051, y: -2.7755576e-17, z: -0}
+        inSlope: {x: 0, y: 0, z: 1.6653344e-15}
+        outSlope: {x: -0, y: 5.551115e-16, z: -0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.083333336
+        value: {x: 0.05051, y: 0, z: -0}
+        inSlope: {x: 0, y: 5.551115e-16, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/chr_tails.fbx/Object_2/RootNode/Object_4/_rootJoint/CharacterModelTails_01/chr_tails_02/Reference_04/Hips_05/Spine_06/Spine1_07/Shoulder_L_010/UpperArm_L_011/ForeArm_L_012/ForeArmSub_L_014/Hand_L_015/Pinky1_L_020/Pinky2_L_021
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.066130005, y: 0, z: 8.326673e-17}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: -0, y: -0, z: -1.6653344e-15}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.033333335
+        value: {x: 0.066130005, y: 0, z: 2.7755576e-17}
+        inSlope: {x: 0, y: 0, z: -1.6653344e-15}
+        outSlope: {x: -0, y: -0, z: 5.551115e-16}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.083333336
+        value: {x: 0.066130005, y: 0, z: 5.551115e-17}
+        inSlope: {x: 0, y: 0, z: 5.551115e-16}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/chr_tails.fbx/Object_2/RootNode/Object_4/_rootJoint/CharacterModelTails_01/chr_tails_02/Reference_04/Hips_05/Spine_06/Spine1_07/Shoulder_L_010/UpperArm_L_011/ForeArm_L_012/ForeArmSub_L_014/Hand_L_015/Ring1_L_022/Ring2_L_023
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.08679, y: 5.551115e-17, z: -0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: -0, y: 1.6653344e-15, z: -0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.033333335
+        value: {x: 0.08679, y: 1.110223e-16, z: -0}
+        inSlope: {x: 0, y: 1.6653344e-15, z: 0}
+        outSlope: {x: -0, y: -2.220446e-15, z: -0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.083333336
+        value: {x: 0.08679, y: 0, z: -0}
+        inSlope: {x: 0, y: -2.220446e-15, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/chr_tails.fbx/Object_2/RootNode/Object_4/_rootJoint/CharacterModelTails_01/chr_tails_02/Reference_04/Hips_05/Spine_06/Spine1_07/Shoulder_L_010/UpperArm_L_011/ForeArm_L_012/ForeArmSub_L_014/Hand_L_015/Thumb1_L_024/Thumb2_L_025
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.000054235814, y: 0.000017912927, z: 0.0000006971706}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: -0.000088505905, y: -0.000038288596, z: 0.0000049252817}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.016666668
+        value: {x: 0.000052760715, y: 0.000017274784, z: 0.00000077925864}
+        inSlope: {x: -0.000088505905, y: -0.000038288596, z: 0.0000049252817}
+        outSlope: {x: -0.0002703419, y: -0.00011192372, z: 0.00001204611}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.033333335
+        value: {x: 0.000048255017, y: 0.000015409389, z: 0.0000009800272}
+        inSlope: {x: -0.0002703419, y: -0.00011192372, z: 0.00001204611}
+        outSlope: {x: -0.00032858067, y: -0.00013284395, z: 0.000012625767}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.05
+        value: {x: 0.000042778673, y: 0.000013195323, z: 0.0000011904566}
+        inSlope: {x: -0.00032858067, y: -0.00013284395, z: 0.000012625767}
+        outSlope: {x: -0.0004379404, y: -0.00016381085, z: 0.000008403293}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.06666667
+        value: {x: 0.000035479665, y: 0.000010465142, z: 0.0000013305115}
+        inSlope: {x: -0.0004379404, y: -0.00016381085, z: 0.000008403293}
+        outSlope: {x: -0.00048051335, y: -0.00016587842, z: -0.00000020576864}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.083333336
+        value: {x: 0.00002747111, y: 0.000007700502, z: 0.000001327082}
+        inSlope: {x: -0.00048051335, y: -0.00016587842, z: -0.00000020576864}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/chr_tails.fbx/Object_2/RootNode/Object_4/_rootJoint/CharacterModelTails_01/chr_tails_02/Reference_04/Hips_05/Spine_06/Spine1_07/Shoulder_L_010/UpperArm_L_011/ForeArm_L_012/ForeArmSub_L_014/Hand_L_015/Wrist_L_026
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.061470002, y: 0.00000053642697, z: -5.551115e-17}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: -0, y: -0, z: -1.6653344e-15}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.033333335
+        value: {x: 0.061470002, y: 0.00000053642697, z: -1.110223e-16}
+        inSlope: {x: 0, y: 0, z: -1.6653344e-15}
+        outSlope: {x: -0, y: -0, z: -0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.083333336
+        value: {x: 0.061470002, y: 0.00000053642697, z: -1.110223e-16}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/chr_tails.fbx/Object_2/RootNode/Object_4/_rootJoint/CharacterModelTails_01/chr_tails_02/Reference_04/Hips_05/Spine_06/Spine1_07/Shoulder_L_010/UpperArm_L_011
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.0645, y: 5.551115e-17, z: 2.7755576e-17}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: -0, y: -8.326672e-16, z: -2.4980016e-15}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.033333335
+        value: {x: 0.0645, y: 2.7755576e-17, z: -5.551115e-17}
+        inSlope: {x: 0, y: -8.326672e-16, z: -2.4980016e-15}
+        outSlope: {x: -0, y: 5.551115e-16, z: 1.110223e-15}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.083333336
+        value: {x: 0.0645, y: 5.551115e-17, z: -0}
+        inSlope: {x: 0, y: 5.551115e-16, z: 1.110223e-15}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/chr_tails.fbx/Object_2/RootNode/Object_4/_rootJoint/CharacterModelTails_01/chr_tails_02/Reference_04/Hips_05/Spine_06/Spine1_07/Shoulder_R_027/UpperArm_R_028/ForeArm_R_029/ForeArmSub_R_031/Hand_R_032/Index1_R_033/Index2_R_034
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.07203, y: 4.1633363e-17, z: 5.551115e-17}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: -0, y: 4.163336e-16, z: -1.6653344e-15}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.033333335
+        value: {x: 0.07203, y: 5.551115e-17, z: -0}
+        inSlope: {x: 0, y: 4.163336e-16, z: -1.6653344e-15}
+        outSlope: {x: -0, y: -2.7755576e-16, z: 5.551115e-16}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.083333336
+        value: {x: 0.07203, y: 4.1633363e-17, z: 2.7755576e-17}
+        inSlope: {x: 0, y: -2.7755576e-16, z: 5.551115e-16}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/chr_tails.fbx/Object_2/RootNode/Object_4/_rootJoint/CharacterModelTails_01/chr_tails_02/Reference_04/Hips_05/Spine_06/Spine1_07/Shoulder_R_027/UpperArm_R_028/ForeArm_R_029/ForeArmSub_R_031/Hand_R_032/Middle1_R_035/Middle2_R_036
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.05051, y: 4.8572257e-17, z: 1.110223e-16}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: -0, y: 2.081668e-16, z: -1.6653344e-15}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.033333335
+        value: {x: 0.05051, y: 5.551115e-17, z: 5.551115e-17}
+        inSlope: {x: 0, y: 2.081668e-16, z: -1.6653344e-15}
+        outSlope: {x: -0, y: -6.938894e-16, z: -5.551115e-16}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.083333336
+        value: {x: 0.05051, y: 2.0816682e-17, z: 2.7755576e-17}
+        inSlope: {x: 0, y: -6.938894e-16, z: -5.551115e-16}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/chr_tails.fbx/Object_2/RootNode/Object_4/_rootJoint/CharacterModelTails_01/chr_tails_02/Reference_04/Hips_05/Spine_06/Spine1_07/Shoulder_R_027/UpperArm_R_028/ForeArm_R_029/ForeArmSub_R_031/Hand_R_032/Pinky1_R_037/Pinky2_R_038
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.066130005, y: 2.0816682e-17, z: -0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: -0, y: 4.163336e-16, z: 8.326672e-16}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.033333335
+        value: {x: 0.066130005, y: 3.469447e-17, z: 2.7755576e-17}
+        inSlope: {x: 0, y: 4.163336e-16, z: 8.326672e-16}
+        outSlope: {x: -0, y: 1.3877788e-16, z: -5.551115e-16}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.083333336
+        value: {x: 0.066130005, y: 4.1633363e-17, z: -0}
+        inSlope: {x: 0, y: 1.3877788e-16, z: -5.551115e-16}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/chr_tails.fbx/Object_2/RootNode/Object_4/_rootJoint/CharacterModelTails_01/chr_tails_02/Reference_04/Hips_05/Spine_06/Spine1_07/Shoulder_R_027/UpperArm_R_028/ForeArm_R_029/ForeArmSub_R_031/Hand_R_032/Ring1_R_039/Ring2_R_040
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.08679, y: 1.110223e-16, z: 1.3877788e-17}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: -0, y: -3.3306689e-15, z: -8.326672e-16}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.033333335
+        value: {x: 0.08679, y: 0, z: -1.3877788e-17}
+        inSlope: {x: 0, y: -3.3306689e-15, z: -8.326672e-16}
+        outSlope: {x: -0, y: 1.110223e-15, z: 8.3266727e-16}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.083333336
+        value: {x: 0.08679, y: 5.551115e-17, z: 2.7755576e-17}
+        inSlope: {x: 0, y: 1.110223e-15, z: 8.3266727e-16}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/chr_tails.fbx/Object_2/RootNode/Object_4/_rootJoint/CharacterModelTails_01/chr_tails_02/Reference_04/Hips_05/Spine_06/Spine1_07/Shoulder_R_027/UpperArm_R_028/ForeArm_R_029/ForeArmSub_R_031/Hand_R_032/Thumb1_R_041/Thumb2_R_042
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.0001510229, y: 0.00004854597, z: 0.0000020699229}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: -0.0002546492, y: -0.000079706435, z: 0.000018894123}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.016666668
+        value: {x: 0.00014677875, y: 0.00004721753, z: 0.000002384825}
+        inSlope: {x: -0.0002546492, y: -0.000079706435, z: 0.000018894123}
+        outSlope: {x: -0.0006921251, y: -0.00021390288, z: 0.00004380619}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.033333335
+        value: {x: 0.00013524333, y: 0.000043652482, z: 0.0000031149282}
+        inSlope: {x: -0.0006921251, y: -0.00021390288, z: 0.00004380619}
+        outSlope: {x: -0.0010216244, y: -0.0003107591, z: 0.000045125787}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.05
+        value: {x: 0.00011821626, y: 0.000038473165, z: 0.0000038670246}
+        inSlope: {x: -0.0010216244, y: -0.0003107591, z: 0.000045125787}
+        outSlope: {x: -0.0012412423, y: -0.0003750063, z: 0.000024762681}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.06666667
+        value: {x: 0.000097528886, y: 0.00003222306, z: 0.000004279736}
+        inSlope: {x: -0.0012412423, y: -0.0003750063, z: 0.000024762681}
+        outSlope: {x: -0.0013487971, y: -0.0004122529, z: -0.000008299859}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.083333336
+        value: {x: 0.000075048934, y: 0.000025352178, z: 0.000004141405}
+        inSlope: {x: -0.0013487971, y: -0.0004122529, z: -0.000008299859}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/chr_tails.fbx/Object_2/RootNode/Object_4/_rootJoint/CharacterModelTails_01/chr_tails_02/Reference_04/Hips_05/Spine_06/Spine1_07/Shoulder_R_027/UpperArm_R_028/ForeArm_R_029/ForeArmSub_R_031/Hand_R_032/Wrist_R_043
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.061470002, y: 0.00000042914158, z: 5.551115e-17}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: -0, y: -0, z: -0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.033333335
+        value: {x: 0.061470002, y: 0.00000042914158, z: 5.551115e-17}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: -0, y: -0, z: -1.110223e-15}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.083333336
+        value: {x: 0.061470002, y: 0.00000042914158, z: -0}
+        inSlope: {x: 0, y: 0, z: -1.110223e-15}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/chr_tails.fbx/Object_2/RootNode/Object_4/_rootJoint/CharacterModelTails_01/chr_tails_02/Reference_04/Hips_05/Spine_06/Spine1_07/Shoulder_R_027/UpperArm_R_028
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.051670004, y: 0, z: 0.000000002953576}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: -0, y: -0, z: -0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.033333335
+        value: {x: 0.051670004, y: 0, z: 0.000000002953576}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: -0, y: -5.551115e-16, z: -0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.083333336
+        value: {x: 0.051670004, y: -2.7755576e-17, z: 0.000000002953576}
+        inSlope: {x: 0, y: -5.551115e-16, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/chr_tails.fbx/Object_2/RootNode/Object_4/_rootJoint/CharacterModelTails_01/chr_tails_02/Reference_04/Hips_05/Spine_06/Spine1_07
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.052740004, y: 0, z: -3.0290692e-18}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: -0.0002747029, y: 0.030738156, z: 0.028170755}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.016666668
+        value: {x: 0.052735426, y: 0.0005123026, z: 0.0004695126}
+        inSlope: {x: -0.0002747029, y: 0.030738156, z: 0.028170755}
+        outSlope: {x: -0.0035058705, y: 0.0831513, z: 0.0764192}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.033333335
+        value: {x: 0.052676994, y: 0.0018981578, z: 0.001743166}
+        inSlope: {x: -0.0035058705, y: 0.0831513, z: 0.0764192}
+        outSlope: {x: -0.01950301, y: 0.13298303, z: 0.124246016}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.06666667
+        value: {x: 0.052026894, y: 0.0063309255, z: 0.0058847}
+        inSlope: {x: -0.01950301, y: 0.13298303, z: 0.124246016}
+        outSlope: {x: -0.04266255, y: 0.15235996, z: 0.14715227}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.083333336
+        value: {x: 0.05131585, y: 0.008870258, z: 0.008337238}
+        inSlope: {x: -0.04266255, y: 0.15235996, z: 0.14715227}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/chr_tails.fbx/Object_2/RootNode/Object_4/_rootJoint/CharacterModelTails_01/chr_tails_02/Reference_04/Hips_05/Spine_06
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.15939, y: -2.220446e-16, z: -6.938894e-17}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: -0, y: 1.6653344e-15, z: 4.163336e-16}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.033333335
+        value: {x: 0.15939, y: -1.6653345e-16, z: -5.551115e-17}
+        inSlope: {x: 0, y: 1.6653344e-15, z: 4.163336e-16}
+        outSlope: {x: -0, y: 1.110223e-15, z: 1.110223e-15}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.083333336
+        value: {x: 0.15939, y: -1.110223e-16, z: -0}
+        inSlope: {x: 0, y: 1.110223e-15, z: 1.110223e-15}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/chr_tails.fbx/Object_2/RootNode/Object_4/_rootJoint/CharacterModelTails_01/chr_tails_02/Reference_04/Hips_05/Tail1_L_044/Tail2_L_045/Tail3_L_046/Tail4_L_047
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.15053001, y: -2.220446e-16, z: 6.938894e-18}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: -0, y: 8.326672e-16, z: -2.7061684e-15}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.033333335
+        value: {x: 0.15053001, y: -1.9428903e-16, z: -8.326673e-17}
+        inSlope: {x: 0, y: 8.326672e-16, z: -2.7061684e-15}
+        outSlope: {x: -0, y: -1.6653345e-15, z: 1.6653345e-15}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.083333336
+        value: {x: 0.15053001, y: -2.7755576e-16, z: -0}
+        inSlope: {x: 0, y: -1.6653345e-15, z: 1.6653345e-15}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/chr_tails.fbx/Object_2/RootNode/Object_4/_rootJoint/CharacterModelTails_01/chr_tails_02/Reference_04/Hips_05/Tail1_L_044/Tail2_L_045/Tail3_L_046
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.15103, y: 5.551115e-17, z: -5.551115e-17}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: -0, y: -1.6653344e-15, z: 4.163336e-16}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.033333335
+        value: {x: 0.15103, y: 0, z: -4.1633363e-17}
+        inSlope: {x: 0, y: -1.6653344e-15, z: 4.163336e-16}
+        outSlope: {x: -0, y: -0, z: -2.7755576e-16}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.083333336
+        value: {x: 0.15103, y: 0, z: -5.551115e-17}
+        inSlope: {x: 0, y: 0, z: -2.7755576e-16}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/chr_tails.fbx/Object_2/RootNode/Object_4/_rootJoint/CharacterModelTails_01/chr_tails_02/Reference_04/Hips_05/Tail1_L_044/Tail2_L_045
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.034977496, y: -0.07373648, z: -0.006409743}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: -0.012435167, y: 0.014180615, z: 0.01970137}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.033333335
+        value: {x: 0.03456299, y: -0.073263794, z: -0.0057530305}
+        inSlope: {x: -0.012435167, y: 0.014180615, z: 0.01970137}
+        outSlope: {x: -0.013331025, y: 0.014490857, z: 0.021400226}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.06666667
+        value: {x: 0.034118623, y: -0.072780766, z: -0.0050396896}
+        inSlope: {x: -0.013331025, y: 0.014490857, z: 0.021400226}
+        outSlope: {x: -0.02184056, y: 0.017437043, z: 0.037539445}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.083333336
+        value: {x: 0.033754613, y: -0.07249015, z: -0.004414032}
+        inSlope: {x: -0.02184056, y: 0.017437043, z: 0.037539445}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/chr_tails.fbx/Object_2/RootNode/Object_4/_rootJoint/CharacterModelTails_01/chr_tails_02/Reference_04/Hips_05/Tail1_L_044
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.15939, y: -2.7755576e-17, z: 2.7755576e-17}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: -0, y: 4.163336e-15, z: -0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.033333335
+        value: {x: 0.15939, y: 1.110223e-16, z: 2.7755576e-17}
+        inSlope: {x: 0, y: 4.163336e-15, z: 0}
+        outSlope: {x: -0, y: -1.110223e-15, z: 5.551115e-16}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.083333336
+        value: {x: 0.15939, y: 5.551115e-17, z: 5.551115e-17}
+        inSlope: {x: 0, y: -1.110223e-15, z: 5.551115e-16}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/chr_tails.fbx/Object_2/RootNode/Object_4/_rootJoint/CharacterModelTails_01/chr_tails_02/Reference_04/Hips_05/Tail1_R_048/Tail2_R_049/Tail3_R_050/Tail4_R_051
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.15053001, y: 2.7755576e-17, z: 6.2450045e-17}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: -0, y: -2.4980016e-15, z: -2.081668e-16}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.033333335
+        value: {x: 0.15053001, y: -5.551115e-17, z: 5.551115e-17}
+        inSlope: {x: 0, y: -2.4980016e-15, z: -2.081668e-16}
+        outSlope: {x: -0, y: 1.110223e-15, z: -0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.083333336
+        value: {x: 0.15053001, y: 0, z: 5.551115e-17}
+        inSlope: {x: 0, y: 1.110223e-15, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/chr_tails.fbx/Object_2/RootNode/Object_4/_rootJoint/CharacterModelTails_01/chr_tails_02/Reference_04/Hips_05/Tail1_R_048/Tail2_R_049/Tail3_R_050
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.15103, y: -5.551115e-17, z: -0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: -0, y: -0, z: 2.081668e-16}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.033333335
+        value: {x: 0.15103, y: -5.551115e-17, z: 6.938894e-18}
+        inSlope: {x: 0, y: 0, z: 2.081668e-16}
+        outSlope: {x: -0, y: 3.3306684e-15, z: 6.2450035e-16}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.050000004
+        value: {x: 0.15103, y: 0, z: 1.7347235e-17}
+        inSlope: {x: 0, y: 3.3306684e-15, z: 6.2450035e-16}
+        outSlope: {x: -0, y: -0, z: -5.204171e-16}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.083333336
+        value: {x: 0.15103, y: 0, z: -0}
+        inSlope: {x: 0, y: 0, z: -5.204171e-16}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/chr_tails.fbx/Object_2/RootNode/Object_4/_rootJoint/CharacterModelTails_01/chr_tails_02/Reference_04/Hips_05/Tail1_R_048/Tail2_R_049
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.034977496, y: -0.073736444, z: 0.0064102574}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0.003902614, y: -0.019232778, z: 0.016405005}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.033333335
+        value: {x: 0.035107583, y: -0.07437754, z: 0.006957091}
+        inSlope: {x: 0.003902614, y: -0.019232778, z: 0.016405005}
+        outSlope: {x: 0.0041189785, y: -0.019811686, z: 0.016617289}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.050000004
+        value: {x: 0.035176232, y: -0.07470773, z: 0.007234046}
+        inSlope: {x: 0.0041189785, y: -0.019811686, z: 0.016617289}
+        outSlope: {x: 0.0048395996, y: -0.021737965, z: 0.017324893}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.06666667
+        value: {x: 0.035256892, y: -0.07507003, z: 0.007522794}
+        inSlope: {x: 0.0048395996, y: -0.021737965, z: 0.017324893}
+        outSlope: {x: 0.009955914, y: -0.03542215, z: 0.022348866}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.083333336
+        value: {x: 0.035422824, y: -0.0756604, z: 0.007895275}
+        inSlope: {x: 0.009955914, y: -0.03542215, z: 0.022348866}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/chr_tails.fbx/Object_2/RootNode/Object_4/_rootJoint/CharacterModelTails_01/chr_tails_02/Reference_04/Hips_05/Tail1_R_048
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.00006470194, y: -0.0032590243, z: 0.00035827112}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: -0.007316733, y: -0.00022607388, z: -0.0020019808}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.016666668
+        value: {x: -0.000057243615, y: -0.0032627922, z: 0.00032490477}
+        inSlope: {x: -0.007316733, y: -0.00022607388, z: -0.0020019808}
+        outSlope: {x: -0.018606175, y: 0.0007399404, z: -0.005194034}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.033333335
+        value: {x: -0.00036734654, y: -0.00325046, z: 0.00023833754}
+        inSlope: {x: -0.018606175, y: 0.0007399404, z: -0.005194034}
+        outSlope: {x: -0.023972448, y: 0.003794362, z: -0.0069397516}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.05
+        value: {x: -0.00076688733, y: -0.0031872205, z: 0.00012267502}
+        inSlope: {x: -0.023972448, y: 0.003794362, z: -0.0069397516}
+        outSlope: {x: -0.023844464, y: 0.007154917, z: -0.0074406085}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.06666667
+        value: {x: -0.0011642951, y: -0.003067972, z: -0.0000013351445}
+        inSlope: {x: -0.023844464, y: 0.007154917, z: -0.0074406085}
+        outSlope: {x: -0.0203085, y: 0.0091070505, z: -0.0071323323}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.083333336
+        value: {x: -0.0015027701, y: -0.0029161877, z: -0.00012020734}
+        inSlope: {x: -0.0203085, y: 0.0091070505, z: -0.0071323323}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/chr_tails.fbx/Object_2/RootNode/Object_4/_rootJoint/CharacterModelTails_01/chr_tails_02/Reference_04/Hips_05/Thigh_L_052/Calf_L_053/Foot_L_054/Socks_L_055
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.10415, y: 0.09878, z: -0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: -0, y: -0, z: -8.326672e-16}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.033333335
+        value: {x: 0.10415, y: 0.09878, z: -2.7755576e-17}
+        inSlope: {x: 0, y: 0, z: -8.326672e-16}
+        outSlope: {x: -0, y: -0, z: -0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.083333336
+        value: {x: 0.10415, y: 0.09878, z: -2.7755576e-17}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/chr_tails.fbx/Object_2/RootNode/Object_4/_rootJoint/CharacterModelTails_01/chr_tails_02/Reference_04/Hips_05/Thigh_L_052/Calf_L_053/Foot_L_054/Toe_L_056
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.11906, y: 2.7755576e-17, z: -1.3877788e-17}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: -0, y: -0, z: 2.4980016e-15}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.016666668
+        value: {x: 0.11906, y: 2.7755576e-17, z: 2.7755576e-17}
+        inSlope: {x: 0, y: 0, z: 2.4980016e-15}
+        outSlope: {x: -0, y: -8.326672e-16, z: -1.6653344e-15}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.033333335
+        value: {x: 0.11906, y: 1.3877788e-17, z: -0}
+        inSlope: {x: 0, y: -8.326672e-16, z: -1.6653344e-15}
+        outSlope: {x: -0, y: 6.2450035e-16, z: -0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.050000004
+        value: {x: 0.11906, y: 2.4286129e-17, z: -0}
+        inSlope: {x: 0, y: 6.2450035e-16, z: 0}
+        outSlope: {x: -0, y: 5.204171e-16, z: -4.1633366e-16}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.083333336
+        value: {x: 0.11906, y: 4.1633363e-17, z: -1.3877788e-17}
+        inSlope: {x: 0, y: 5.204171e-16, z: -4.1633366e-16}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/chr_tails.fbx/Object_2/RootNode/Object_4/_rootJoint/CharacterModelTails_01/chr_tails_02/Reference_04/Hips_05/Thigh_L_052/Calf_L_053/Foot_L_054
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 5.551115e-17, y: 0, z: -1.3877788e-17}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: -0, y: -0, z: 4.163336e-16}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.033333335
+        value: {x: 5.551115e-17, y: 0, z: -0}
+        inSlope: {x: 0, y: 0, z: 4.163336e-16}
+        outSlope: {x: -5.551115e-16, y: -2.7755576e-16, z: -0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.083333336
+        value: {x: 2.7755576e-17, y: -1.3877788e-17, z: -0}
+        inSlope: {x: -5.551115e-16, y: -2.7755576e-16, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/chr_tails.fbx/Object_2/RootNode/Object_4/_rootJoint/CharacterModelTails_01/chr_tails_02/Reference_04/Hips_05/Thigh_L_052/Calf_L_053/Knee_L_057
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.00041796407, y: -0.0037572999, z: -0.0004687545}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0.0023122928, y: 0.0027976555, z: 0.0003986328}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.016666668
+        value: {x: -0.00037942585, y: -0.0037106723, z: -0.00046211062}
+        inSlope: {x: 0.0023122928, y: 0.0027976555, z: 0.0003986328}
+        outSlope: {x: 0.005684692, y: 0.007881755, z: 0.0013485329}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.033333335
+        value: {x: -0.00028468098, y: -0.0035793097, z: -0.00043963507}
+        inSlope: {x: 0.005684692, y: 0.007881755, z: 0.0013485329}
+        outSlope: {x: 0.0056275735, y: 0.010216242, z: 0.0025453083}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.05
+        value: {x: -0.0001908881, y: -0.003409039, z: -0.00039721327}
+        inSlope: {x: 0.0056275735, y: 0.010216242, z: 0.0025453083}
+        outSlope: {x: 0.002655116, y: 0.0068955114, z: 0.0031947216}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.06666667
+        value: {x: -0.00014663616, y: -0.0032941138, z: -0.0003439679}
+        inSlope: {x: 0.002655116, y: 0.0068955114, z: 0.0031947216}
+        outSlope: {x: 0.0007463317, y: 0.0000454858, z: 0.0023955114}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.083333336
+        value: {x: -0.0001341973, y: -0.0032933557, z: -0.0003040427}
+        inSlope: {x: 0.0007463317, y: 0.0000454858, z: 0.0023955114}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/chr_tails.fbx/Object_2/RootNode/Object_4/_rootJoint/CharacterModelTails_01/chr_tails_02/Reference_04/Hips_05/Thigh_R_058/Calf_R_059/Foot_R_060/Socks_R_061
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.10415, y: 0.09878, z: -0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: -0, y: -0, z: -0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.016666668
+        value: {x: 0.10415, y: 0.09878, z: -0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: -0, y: -0, z: 8.326672e-16}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.033333335
+        value: {x: 0.10415, y: 0.09878, z: 1.3877788e-17}
+        inSlope: {x: 0, y: 0, z: 8.326672e-16}
+        outSlope: {x: -0, y: -0, z: -8.326672e-16}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.06666667
+        value: {x: 0.10415, y: 0.09878, z: -1.3877788e-17}
+        inSlope: {x: 0, y: 0, z: -8.326672e-16}
+        outSlope: {x: -0, y: -0, z: 8.326673e-16}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.083333336
+        value: {x: 0.10415, y: 0.09878, z: -0}
+        inSlope: {x: 0, y: 0, z: 8.326673e-16}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/chr_tails.fbx/Object_2/RootNode/Object_4/_rootJoint/CharacterModelTails_01/chr_tails_02/Reference_04/Hips_05/Thigh_R_058/Calf_R_059/Foot_R_060/Toe_R_062
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 3.469447e-18, y: 0, z: -1.3877788e-17}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: -1.040834e-16, y: -8.326672e-16, z: -0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.033333335
+        value: {x: 0, y: -2.7755576e-17, z: -1.3877788e-17}
+        inSlope: {x: -1.040834e-16, y: -8.326672e-16, z: 0}
+        outSlope: {x: -0, y: -0, z: 8.326671e-16}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.050000004
+        value: {x: 0, y: -2.7755576e-17, z: -0}
+        inSlope: {x: 0, y: 0, z: 8.326671e-16}
+        outSlope: {x: -0, y: -0, z: -0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.083333336
+        value: {x: 0, y: -2.7755576e-17, z: -0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/chr_tails.fbx/Object_2/RootNode/Object_4/_rootJoint/CharacterModelTails_01/chr_tails_02/Reference_04/Hips_05/Thigh_R_058/Calf_R_059/Knee_R_00
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.00000002071044, y: 0.041395515, z: -0.26090714}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: -0.033599965, y: -0.54666436, z: -0.24094103}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.016666668
+        value: {x: -0.00056002015, y: 0.032284442, z: -0.26492283}
+        inSlope: {x: -0.033599965, y: -0.54666436, z: -0.24094103}
+        outSlope: {x: -0.091199905, y: -1.4838036, z: -0.60703033}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.033333335
+        value: {x: -0.0020800186, y: 0.0075543798, z: -0.27504}
+        inSlope: {x: -0.091199905, y: -1.4838036, z: -0.60703033}
+        outSlope: {x: -0.13439986, y: -2.186658, z: -0.7994396}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.05
+        value: {x: -0.004320016, y: -0.028889915, z: -0.288364}
+        inSlope: {x: -0.13439986, y: -2.186658, z: -0.7994396}
+        outSlope: {x: -0.16319981, y: -2.6552274, z: -0.81816125}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.06666667
+        value: {x: -0.0070400136, y: -0.07314371, z: -0.30200002}
+        inSlope: {x: -0.16319981, y: -2.6552274, z: -0.81816125}
+        outSlope: {x: -0.17759985, y: -2.8895123, z: -0.70335215}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.083333336
+        value: {x: -0.010000011, y: -0.12130225, z: -0.31372255}
+        inSlope: {x: -0.17759985, y: -2.8895123, z: -0.70335215}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/chr_tails.fbx/Object_2/RootNode/Object_4/_rootJoint/CharacterModelTails_01/chr_tails_02/Reference_04/Hips_05
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -1.843997e-39, y: 8.910934e-16, z: -0.00000002038584}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 1.1207417e-38, y: -2.7802097e-15, z: 0.45360008}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.016666668
+        value: {x: -1.657206e-39, y: 8.4475655e-16, z: 0.007559981}
+        inSlope: {x: 1.1207417e-38, y: -2.7802097e-15, z: 0.45360008}
+        outSlope: {x: 2.4310623e-38, y: -6.629736e-15, z: 1.2312001}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.033333335
+        value: {x: -1.25203e-39, y: 7.3426094e-16, z: 0.028079985}
+        inSlope: {x: 2.4310623e-38, y: -6.629736e-15, z: 1.2312001}
+        outSlope: {x: 2.0704688e-38, y: -7.2713205e-15, z: 2.0088003}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.06666667
+        value: {x: -5.61873e-40, y: 4.9188357e-16, z: 0.09503999}
+        inSlope: {x: 2.0704688e-38, y: -7.2713205e-15, z: 2.0088003}
+        outSlope: {x: 6.052432e-39, y: -2.7802133e-15, z: 2.3976}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      - serializedVersion: 3
+        time: 0.083333336
+        value: {x: -4.60999e-40, y: 4.455467e-16, z: 0.13499999}
+        inSlope: {x: 6.052432e-39, y: -2.7802133e-15, z: 2.3976}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0, y: 0, z: 0}
+        outWeight: {x: 0, y: 0, z: 0}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/chr_tails.fbx/Object_2/RootNode/Object_4/_rootJoint/CharacterModelTails_01/chr_tails_02/Reference_04
+  m_ScaleCurves: []
+  m_FloatCurves: []
+  m_PPtrCurves: []
+  m_SampleRate: 60
+  m_WrapMode: 2
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings: []
+    pptrCurveMapping: []
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_AdditiveReferencePoseClip: {fileID: 0}
+    m_AdditiveReferencePoseTime: 0
+    m_StartTime: 0
+    m_StopTime: 0.083333336
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_HasAdditiveReferencePose: 0
+    m_LoopTime: 0
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves: []
+  m_EulerEditorCurves: []
+  m_HasGenericRootTransform: 0
+  m_HasMotionFloatCurves: 0
+  m_Events: []
